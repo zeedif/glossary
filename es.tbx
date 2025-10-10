@@ -141,15 +141,23 @@
         <langSet xml:lang="es"><tig><term>y</term></tig></langSet>
         <note from="translator">Antes de 'i-' o 'hi-': e.</note>
       </termEntry>
+      <termEntry id="verb_anger_gerund">
+        <langSet xml:lang="en"><tig><term>angering</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>enfureciendo</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_angered_adj">
         <langSet xml:lang="en"><tig><term>angered</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>enfurecido</term></tig></langSet>
-        <note from="translator">Infinitivo: enfurecer. Femenino: enfurecida.</note>
+        <note from="translator">Femenino/plural: enfurecida(s), enfurecidos.</note>
       </termEntry>
       <termEntry id="term_angers">
         <langSet xml:lang="en"><tig><term>angers</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>enfurece</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_anger_inf">
+        <langSet xml:lang="en"><tig><term>anger</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>enfurecer</term></tig></langSet>
-        <note from="translator">Alternativa: enojar</note>
+        <note from="translator">Alternativa: enojar.</note>
       </termEntry>
       <termEntry id="term.angle">
         <langSet xml:lang="en"><tig><term>angle</term></tig></langSet>
@@ -172,10 +180,21 @@
         <langSet xml:lang="en"><tig><term>apartments</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>apartamentos</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_apologizes">
+      <termEntry id="verb_apologize_gerund">
+        <langSet xml:lang="en"><tig><term>apologizing</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>disculpándose</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_apologize_past">
+        <langSet xml:lang="en"><tig><term>apologized</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>se disculpó</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_apologize_3p">
         <langSet xml:lang="en"><tig><term>apologizes</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>se disculpa</term></tig></langSet>
-        <note from="translator">Infinitivo: disculparse.</note>
+      </termEntry>
+      <termEntry id="verb_apologize_inf">
+        <langSet xml:lang="en"><tig><term>apologize</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>disculparse</term></tig></langSet>
       </termEntry>
       <termEntry id="term_appease">
         <langSet xml:lang="en"><tig><term>appease</term></tig></langSet>
@@ -184,6 +203,10 @@
       <termEntry id="verb_approach_gerund">
         <langSet xml:lang="en"><tig><term>approaching</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>acercándose</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_approach_past">
+        <langSet xml:lang="en"><tig><term>approached</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>se acercó</term></tig></langSet>
       </termEntry>
       <termEntry id="verb_approach_3p">
         <langSet xml:lang="en"><tig><term>approaches</term></tig></langSet>
@@ -224,6 +247,22 @@
       <termEntry id="term.asset[1]">
         <langSet xml:lang="en"><tig><term>assets</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>recursos</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_attack_gerund">
+        <langSet xml:lang="en"><tig><term>attacking</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>atacando</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_attack_past">
+        <langSet xml:lang="en"><tig><term>attacked</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>atacado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_attack_3p">
+        <langSet xml:lang="en"><tig><term>attacks</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ataca</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_attack_plural_noun">
+        <langSet xml:lang="en"><tig><term>attacks</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ataques</term></tig></langSet>
       </termEntry>
       <termEntry id="term_attack_noun">
         <langSet xml:lang="en"><tig><term>attack</term></tig></langSet>
@@ -365,7 +404,7 @@
       <termEntry id="term_buried">
         <langSet xml:lang="en"><tig><term>buried</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>enterrado</term></tig></langSet>
-        <note from="translator">Femenino: enterrada. Plurales: enterrados, enterradas.</note>
+        <note from="translator">Femenino/plural: enterrada(s), enterrados.</note>
       </termEntry>
       <termEntry id="verb_burn_gerund">
         <langSet xml:lang="en"><tig><term>burning</term></tig></langSet>
@@ -635,7 +674,7 @@
       <termEntry id="term_cursed">
         <langSet xml:lang="en"><tig><term>cursed</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>maldito</term></tig></langSet>
-        <note from="translator">Femenino: maldita. Plurales: malditos, malditas.</note>
+        <note from="translator">Femenino/plural: maldita(s), malditos.</note>
       </termEntry>
       <termEntry id="verb_cut_gerund">
         <langSet xml:lang="en"><tig><term>cutting</term></tig></langSet>
@@ -673,9 +712,17 @@
         <langSet xml:lang="en"><tig><term>dealing</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>infligiendo</term></tig></langSet>
       </termEntry>
+      <termEntry id="verb_deal_past">
+        <langSet xml:lang="en"><tig><term>dealt</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>infligido</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_deal_3p">
+        <langSet xml:lang="en"><tig><term>deals</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>inflige</term></tig></langSet>
+      </termEntry>
       <termEntry id="verb_deal_inf">
         <langSet xml:lang="en"><tig><term>deal</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>inflingir</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>infligir</term></tig></langSet>
       </termEntry>
       <termEntry id="term.deck">
         <langSet xml:lang="en"><tig><term>deck</term></tig></langSet>
@@ -721,6 +768,14 @@
         <langSet xml:lang="en"><tig><term>directs</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>dirige</term></tig></langSet>
         <note from="translator">Infinitivo: dirigir</note>
+      </termEntry>
+      <termEntry id="verb_disable_gerund">
+        <langSet xml:lang="en"><tig><term>disabling</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>desactivando</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_disable_3p">
+        <langSet xml:lang="en"><tig><term>disables</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>desactiva</term></tig></langSet>
       </termEntry>
       <termEntry id="verb_disable_past">
         <langSet xml:lang="en"><tig><term>disabled</term></tig></langSet>
@@ -768,6 +823,26 @@
       <termEntry id="term_doomed">
         <langSet xml:lang="en"><tig><term>doomed</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>condenado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_draw_past_participle">
+        <langSet xml:lang="en"><tig><term>drawn</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>dibujado</term></tig></langSet>
+        <note from="translator">En juegos de cartas: robado.</note>
+      </termEntry>
+      <termEntry id="verb_draw_past">
+        <langSet xml:lang="en"><tig><term>drew</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>dibujó</term></tig></langSet>
+        <note from="translator">En juegos de cartas: robó.</note>
+      </termEntry>
+      <termEntry id="verb_draw_gerund">
+        <langSet xml:lang="en"><tig><term>drawing</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>dibujando</term></tig></langSet>
+        <note from="translator">En juegos de cartas: robando.</note>
+      </termEntry>
+      <termEntry id="verb_draw_3p">
+        <langSet xml:lang="en"><tig><term>draws</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>dibuja</term></tig></langSet>
+        <note from="translator">En juegos de cartas: roba.</note>
       </termEntry>
       <termEntry id="verb_draw_inf">
         <descrip>En juegos de cartas: robar.</descrip>
@@ -896,7 +971,7 @@
       <termEntry id="term_fallen">
         <langSet xml:lang="en"><tig><term>fallen</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>caído</term></tig></langSet>
-        <note from="translator">Femenino: caída. Plurales: caídos, caídas.</note>
+        <note from="translator">Femenino/plural: caída(s), caídos.</note>
       </termEntry>
       <termEntry id="term_far">
         <langSet xml:lang="en"><tig><term>far</term></tig></langSet>
@@ -982,7 +1057,7 @@
       <termEntry id="term_forbidden">
         <langSet xml:lang="en"><tig><term>forbidden</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>prohibido</term></tig></langSet>
-        <note from="translator">Femenino: prohibida. Plurales: prohibidos, prohibidas.</note>
+        <note from="translator">Femenino/plural: prohibida(s), prohibidos.</note>
       </termEntry>
       <termEntry id="term_forever">
         <langSet xml:lang="en"><tig><term>forever</term></tig></langSet>
@@ -1094,13 +1169,25 @@
         <langSet xml:lang="en"><tig><term>head</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>cabeza</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_help_noun">
-        <langSet xml:lang="en"><tig><term>help</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>ayuda</term></tig></langSet>
+      <termEntry id="verb_help_past">
+        <langSet xml:lang="en"><tig><term>helped</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ayudó</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_help_gerund">
+        <langSet xml:lang="en"><tig><term>helping</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ayudando</term></tig></langSet>
       </termEntry>
       <termEntry id="verb_help_3p">
         <langSet xml:lang="en"><tig><term>helps</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>ayuda</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_help_noun">
+        <langSet xml:lang="en"><tig><term>help</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ayuda</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_help_inf">
+        <langSet xml:lang="en"><tig><term>help</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ayudar</term></tig></langSet>
       </termEntry>
       <termEntry id="term_her">
         <descrip>Posesivo: su.</descrip>
@@ -1118,7 +1205,7 @@
       <termEntry id="term_hidden">
         <langSet xml:lang="en"><tig><term>hidden</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>oculto</term></tig></langSet>
-        <note from="translator">Femenino: oculta. Plurales: ocultos, ocultas.</note>
+        <note from="translator">Femenino/plural: oculta(s), ocultos.</note>
       </termEntry>
       <termEntry id="term_himself">
         <langSet xml:lang="en"><tig><term>himself</term></tig></langSet>
@@ -1128,10 +1215,20 @@
         <langSet xml:lang="en"><tig><term>his</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>su</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_hit">
+      <termEntry id="verb_hit_gerund">
+        <langSet xml:lang="en"><tig><term>hitting</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>acertando</term></tig></langSet>
+        <note from="translator">Alternativa: golpeando.</note>
+      </termEntry>
+      <termEntry id="verb_hit_3p">
+        <langSet xml:lang="en"><tig><term>hits</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>acierta</term></tig></langSet>
+        <note from="translator">Alternativa: golpea.</note>
+      </termEntry>
+      <termEntry id="verb_hit_inf">
         <langSet xml:lang="en"><tig><term>hit</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>acertar</term></tig></langSet>
-        <note from="translator">Alternativa: golpear</note>
+        <note from="translator">Alternativa: golpear.</note>
       </termEntry>
       <termEntry id="term_hometown">
         <langSet xml:lang="en"><tig><term>hometown</term></tig></langSet>
@@ -1249,7 +1346,22 @@
         <langSet xml:lang="en"><tig><term>leading</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>guiando</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_leave">
+      <termEntry id="verb_leave_past">
+        <langSet xml:lang="en"><tig><term>left</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>se fue</term></tig></langSet>
+        <note from="translator">Alternativas: dejó, salió.</note>
+      </termEntry>
+      <termEntry id="verb_leave_gerund">
+        <langSet xml:lang="en"><tig><term>leaving</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>yéndose</term></tig></langSet>
+        <note from="translator">Alternativas: dejando, saliendo.</note>
+      </termEntry>
+      <termEntry id="verb_leave_3p">
+        <langSet xml:lang="en"><tig><term>leaves</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>se va</term></tig></langSet>
+        <note from="translator">Alternativas: deja, sale.</note>
+      </termEntry>
+      <termEntry id="verb_leave_inf">
         <langSet xml:lang="en"><tig><term>leave</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>irse</term></tig></langSet>
         <note from="translator">Alternativas: ofrecer, dejar, salir.</note>
@@ -1498,7 +1610,19 @@
         <langSet xml:lang="en"><tig><term>notes</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>notas</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_notice">
+      <termEntry id="verb_notice_past">
+        <langSet xml:lang="en"><tig><term>noticed</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>notó</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_notice_gerund">
+        <langSet xml:lang="en"><tig><term>noticing</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>notando</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_notice_3p">
+        <langSet xml:lang="en"><tig><term>notices</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>nota</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_notice_inf">
         <descrip>Como sustantivo: aviso.</descrip>
         <langSet xml:lang="en"><tig><term>notice</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>notar</term></tig></langSet>
@@ -1718,12 +1842,12 @@
         <langSet xml:lang="es"><tig><term>tal vez</term></tig></langSet>
         <note from="translator">Alternativa: probablemente</note>
       </termEntry>
-      <termEntry id="term_promise">
+      <termEntry id="term_promise_noun">
         <descrip>Como verbo: prometer.</descrip>
         <langSet xml:lang="en"><tig><term>promise</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>promesa</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_promises">
+      <termEntry id="term_promises_noun">
         <langSet xml:lang="en"><tig><term>promises</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>promesas</term></tig></langSet>
         <note from="translator">Como verbo (3ª p.): promete.</note>
@@ -1904,6 +2028,14 @@
         <langSet xml:lang="en"><tig><term>running</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>corriendo</term></tig></langSet>
       </termEntry>
+      <termEntry id="verb_sacrifice_gerund">
+        <langSet xml:lang="en"><tig><term>sacrificing</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sacrificando</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_sacrifice_past">
+        <langSet xml:lang="en"><tig><term>sacrificed</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sacrificado</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_sacrifice_noun">
         <langSet xml:lang="en"><tig><term>sacrifice</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>sacrificio</term></tig></langSet>
@@ -1924,7 +2056,22 @@
         <langSet xml:lang="en"><tig><term>sated</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>saciado</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_save">
+      <termEntry id="verb_save_past">
+        <langSet xml:lang="en"><tig><term>saved</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>guardado</term></tig></langSet>
+        <note from="translator">De un peligro: salvado.</note>
+      </termEntry>
+      <termEntry id="verb_save_gerund">
+        <langSet xml:lang="en"><tig><term>saving</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>guardando</term></tig></langSet>
+        <note from="translator">De un peligro: salvando.</note>
+      </termEntry>
+      <termEntry id="verb_save_3p">
+        <langSet xml:lang="en"><tig><term>saves</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>guarda</term></tig></langSet>
+        <note from="translator">De un peligro: salva.</note>
+      </termEntry>
+      <termEntry id="verb_save_inf">
         <descrip>De un peligro: salvar.</descrip>
         <langSet xml:lang="en"><tig><term>save</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>guardar</term></tig></langSet>
@@ -1984,11 +2131,27 @@
         <langSet xml:lang="en"><tig><term>settings</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>ajustes</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_share">
-        <descrip>Como sustantivo: parte.</descrip>
+      <verb_share_past>
+        <langSet xml:lang="en"><tig><term>shared</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>compartido</term></tig></langSet>
+      </verb_share_past>
+      <verb_share_gerund>
+        <langSet xml:lang="en"><tig><term>sharing</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>compartiendo</term></tig></langSet>
+      </verb_share_gerund>
+      <verb_share_3p>
+        <langSet xml:lang="en"><tig><term>shares</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>comparte</term></tig></langSet>
+      </verb_share_3p>
+      <term_share_plural_noun>
+        <langSet xml:lang="en"><tig><term>shares</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>partes</term></tig></langSet>
+        <note from="translator">De empresa: acciones.</note>
+      </term_share_plural_noun>
+      <termEntry id="term_share_noun">
+        <descrip>Como verbo: compartir.</descrip>
         <langSet xml:lang="en"><tig><term>share</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>compartir</term></tig></langSet>
-        <note from="translator">Alternativa (sustantivo): acción (de empresa).</note>
+        <langSet xml:lang="es"><tig><term>parte</term></tig></langSet>
       </termEntry>
       <termEntry id="term_shopping">
         <langSet xml:lang="en"><tig><term>shopping</term></tig></langSet>
@@ -2114,11 +2277,23 @@
         <langSet xml:lang="es"><tig><term>estado</term></tig></langSet>
         <note from="translator">En algunos contextos de RPG, "atributo" puede ser válido.</note>
       </termEntry>
-      <verb_stop_past>
+      <termEntry id="verb_stop_gerund">
+        <langSet xml:lang="en"><tig><term>stopping</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>deteniendo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_stop_past">
         <langSet xml:lang="en"><tig><term>stopped</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>detenido</term></tig></langSet>
-        <note from="translator">3ª p. presente (stops): detiene. 3ª p. pasado (stopped): detuvo.</note>
-      </verb_stop_past>
+        <note from="translator">3ª p. pasado (stopped): detuvo.</note>
+      </termEntry>
+      <termEntry id="verb_stop_3p">
+        <langSet xml:lang="en"><tig><term>stops</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>detiene</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_stop_inf">
+        <langSet xml:lang="en"><tig><term>stop</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>detener</term></tig></langSet>
+      </termEntry>
       <termEntry id="verb_stir_3p">
         <langSet xml:lang="en"><tig><term>stirs</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>retuerce</term></tig></langSet>
