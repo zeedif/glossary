@@ -116,6 +116,11 @@
         <langSet xml:lang="es"><tig><term>un</term></tig></langSet>
         <note from="translator">También: una</note>
       </termEntry>
+      <termEntry id="term_and">
+        <langSet xml:lang="en"><tig><term>and</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>y</term></tig></langSet>
+        <note from="translator">Antes de 'i-' o 'hi-': e.</note>
+      </termEntry>
       <termEntry id="term_angers">
         <langSet xml:lang="en"><tig><term>angers</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>enfurecer</term></tig></langSet>
@@ -762,6 +767,11 @@
         <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>archivo</term></tig></langSet>
       </termEntry>
+      <termEntry id="verb_fill_3p">
+        <langSet xml:lang="en"><tig><term>fills</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>llena</term></tig></langSet>
+        <note from="translator">Infinitivo: llenar.</note>
+      </termEntry>
       <termEntry id="term_finally">
         <langSet xml:lang="en"><tig><term>finally</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>finalmente</term></tig></langSet>
@@ -1031,6 +1041,11 @@
       <termEntry id="term.injury[1]">
         <langSet xml:lang="en"><tig><term>injuries</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>lesiones</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_inside">
+        <langSet xml:lang="en"><tig><term>inside</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>dentro</term></tig></langSet>
+        <note from="translator">Como verbo (go inside): entrar.</note>
       </termEntry>
       <termEntry id="term.item[0]">
         <langSet xml:lang="en"><tig><term>item</term></tig></langSet>
@@ -1436,6 +1451,11 @@
         <langSet xml:lang="es"><tig><term>imagen</term></tig></langSet>
         <note from="translator">Alternativa: foto</note>
       </termEntry>
+      <termEntry id="term_place">
+        <langSet xml:lang="en"><tig><term>place</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>lugar</term></tig></langSet>
+        <note from="translator">Alternativa: sitio. Como verbo: colocar, poner.</note>
+      </termEntry>
       <termEntry id="term_plaguing">
         <langSet xml:lang="en"><tig><term>plaguing</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>plagando</term></tig></langSet>
@@ -1495,6 +1515,11 @@
       <termEntry id="term_price">
         <langSet xml:lang="en"><tig><term>price</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>precio</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_prize">
+        <langSet xml:lang="en"><tig><term>prize</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>premio</term></tig></langSet>
+        <note from="translator">Alternativa: recompensa.</note>
       </termEntry>
       <termEntry id="term_prick">
         <langSet xml:lang="en"><tig><term>prick</term></tig></langSet>
@@ -1845,6 +1870,11 @@
         <langSet xml:lang="es"><tig><term>estado</term></tig></langSet>
         <note from="translator">En algunos contextos de RPG, "atributo" puede ser válido.</note>
       </termEntry>
+      <verb_stop_past>
+        <langSet xml:lang="en"><tig><term>stopped</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>detenido</term></tig></langSet>
+        <note from="translator">3ª p. presente (stops): detiene. 3ª p. pasado (stopped): detuvo.</note>
+      </verb_stop_past>
       <termEntry id="verb_stir_3p">
         <langSet xml:lang="en"><tig><term>stirs</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>retuerce</term></tig></langSet>
@@ -2090,6 +2120,12 @@
         <langSet xml:lang="es"><tig><term>al</term></tig></langSet>
         <note from="translator">Alternativa: a la</note>
       </termEntry>
+      <termEntry id="term_toll">
+        <descrip>En carreteras: peaje.</descrip>
+        <langSet xml:lang="en"><tig><term>toll</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cuota</term></tig></langSet>
+        <note from="translator">Sonido de campana: tañido. De víctimas: número de.</note>
+      </termEntry>
       <termEntry id="term.token[0]">
         <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>ficha</term></tig></langSet>
@@ -2165,6 +2201,11 @@
         <langSet xml:lang="en"><tig><term>uh</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>eh</term></tig></langSet>
         <note from="translator">Expresión de duda o vacilación: um</note>
+      </termEntry>
+      <termEntry id="term_underneath">
+        <langSet xml:lang="en"><tig><term>underneath</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>debajo</term></tig></langSet>
+        <note from="translator">Alternativas: bajo, debajo de.</note>
       </termEntry>
       <termEntry id="term_unknown">
         <langSet xml:lang="en"><tig><term>unknown</term></tig></langSet>
@@ -2263,6 +2304,15 @@
         <langSet xml:lang="en"><tig><term>when</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>cuando</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_wish_noun">
+        <langSet xml:lang="en"><tig><term>wish</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>deseo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_wish_inf">
+        <langSet xml:lang="en"><tig><term>wish</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>desear</term></tig></langSet>
+        <note from="translator">Alternativas: pedir (un deseo), ojalá.</note>
+      </termEntry>
       <termEntry id="term_witch">
         <langSet xml:lang="en"><tig><term>witch</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>bruja</term></tig></langSet>
@@ -2270,6 +2320,11 @@
       <termEntry id="term_with">
         <langSet xml:lang="en"><tig><term>with</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>con</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_work_gerund">
+        <langSet xml:lang="en"><tig><term>working</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>trabajando</term></tig></langSet>
+        <note from="translator">De una máquina: funcionando.</note>
       </termEntry>
       <termEntry id="term.wound[0]">
         <langSet xml:lang="en"><tig><term>wound</term></tig></langSet>
