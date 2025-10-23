@@ -80,6 +80,14 @@
         <langSet xml:lang="en"><tig><term>activate</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>activar</term></tig></langSet>
       </termEntry>
+      <termEntry id="term.actor[0]">
+        <langSet xml:lang="en"><tig><term>actor</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>actor</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term.actor[1]">
+        <langSet xml:lang="en"><tig><term>actors</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>actores</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_added">
         <langSet xml:lang="en"><tig><term>added</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>añadido</term></tig></langSet>
@@ -204,6 +212,19 @@
       <termEntry id="term_appease">
         <langSet xml:lang="en"><tig><term>appease</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>apaciguar</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term.archetype[0]">
+        <langSet xml:lang="en"><tig><term>archetype</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>arquetipo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term.archetype[1]">
+        <langSet xml:lang="en"><tig><term>archetypes</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>arquetipos</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_are">
+        <langSet xml:lang="en"><tig><term>are</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>son</term></tig></langSet>
+        <note from="translator">Alternativa: están</note>
       </termEntry>
       <termEntry id="verb_approach_gerund">
         <langSet xml:lang="en"><tig><term>approaching</term></tig></langSet>
@@ -382,6 +403,16 @@
         <langSet xml:lang="en"><tig><term>blood</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>sangre</term></tig></langSet>
       </termEntry>
+      <termEntry id="term.book[0]">
+        <langSet xml:lang="en"><tig><term>book</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>libro</term></tig></langSet>
+        <note from="translator">Alternativa: tomo.</note>
+      </termEntry>
+      <termEntry id="term.book[1]">
+        <langSet xml:lang="en"><tig><term>books</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>libros</term></tig></langSet>
+        <note from="translator">Alternativa: tomos.</note>
+      </termEntry>
       <termEntry id="term_boost">
         <langSet xml:lang="en"><tig><term>boost</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>impulsar</term></tig></langSet>
@@ -468,6 +499,33 @@
         <langSet xml:lang="en"><tig><term>by</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>por</term></tig></langSet>
       </termEntry>
+      <termEntry id="verb_call_past">
+        <langSet xml:lang="en"><tig><term>called</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>llamado</term></tig></langSet>
+        <note from="translator">3ª p. pasado: llamó.</note>
+      </termEntry>
+      <termEntry id="verb_call_gerund">
+        <langSet xml:lang="en"><tig><term>calling</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>llamando</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_call_3p">
+        <langSet xml:lang="en"><tig><term>calls</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>llama</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_calls_noun">
+        <descrip>En informática: invocaciones.</descrip>
+        <langSet xml:lang="en"><tig><term>calls</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>llamadas</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_call_noun">
+        <descrip>En informática: invocación.</descrip>
+        <langSet xml:lang="en"><tig><term>call</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>llamada</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_call_inf">
+        <langSet xml:lang="en"><tig><term>call</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>llamar</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_can">
         <langSet xml:lang="en"><tig><term>can</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>puede</term></tig></langSet>
@@ -539,6 +597,31 @@
       <termEntry id="term_charisma">
         <langSet xml:lang="en"><tig><term>charisma</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>carisma</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_chase_past">
+        <langSet xml:lang="en"><tig><term>chased</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>perseguido</term></tig></langSet>
+        <note from="translator">3ª p. pasado: persiguió.</note>
+      </termEntry>
+      <termEntry id="verb_chase_gerund">
+        <langSet xml:lang="en"><tig><term>chasing</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>persiguiendo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_chase_3p">
+        <langSet xml:lang="en"><tig><term>chases</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>persigue</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_chases_noun">
+        <langSet xml:lang="en"><tig><term>chases</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>persecuciones</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_chase_noun">
+        <langSet xml:lang="en"><tig><term>chase</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>persecución</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_chase_inf">
+        <langSet xml:lang="en"><tig><term>chase</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>perseguir</term></tig></langSet>
       </termEntry>
       <termEntry id="term_cherished_adj">
         <langSet xml:lang="en"><tig><term>cherished</term></tig></langSet>
@@ -636,6 +719,14 @@
         <langSet xml:lang="en"><tig><term>complain</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>quejarse</term></tig></langSet>
       </termEntry>
+      <termEntry id="term.container[0]">
+        <langSet xml:lang="en"><tig><term>container</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>contenedor</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term.container[1]">
+        <langSet xml:lang="en"><tig><term>containers</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>contenedores</term></tig></langSet>
+      </termEntry>
       <termEntry id="verb_consume_3p">
         <langSet xml:lang="en"><tig><term>consumes</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>consume</term></tig></langSet>
@@ -675,6 +766,14 @@
       <termEntry id="term_countless">
         <langSet xml:lang="en"><tig><term>countless</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>incontable</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term.creature[0]">
+        <langSet xml:lang="en"><tig><term>creature</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>criatura</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term.creature[1]">
+        <langSet xml:lang="en"><tig><term>creatures</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>criaturas</term></tig></langSet>
       </termEntry>
       <termEntry id="term_creepy">
         <langSet xml:lang="en"><tig><term>creepy</term></tig></langSet>
@@ -737,6 +836,11 @@
       <termEntry id="term_dark">
         <langSet xml:lang="en"><tig><term>dark</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>oscuro</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term.data">
+        <langSet xml:lang="en"><tig><term>data</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>datos</term></tig></langSet>
+        <note from="translator">Singular: dato.</note>
       </termEntry>
       <termEntry id="verb_deal_gerund">
         <langSet xml:lang="en"><tig><term>dealing</term></tig></langSet>
@@ -898,6 +1002,14 @@
       <termEntry id="term_dying">
         <langSet xml:lang="en"><tig><term>dying</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>moribundo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term.edition[0]">
+        <langSet xml:lang="en"><tig><term>edition</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>edición</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term.edition[1]">
+        <langSet xml:lang="en"><tig><term>editions</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ediciones</term></tig></langSet>
       </termEntry>
       <termEntry id="term_eldritch">
         <langSet xml:lang="en"><tig><term>eldritch</term></tig></langSet>
@@ -1437,6 +1549,20 @@
         <langSet xml:lang="es"><tig><term>dentro</term></tig></langSet>
         <note from="translator">Como verbo (go inside): entrar.</note>
       </termEntry>
+      <termEntry id="term.instance[0]">
+        <descrip>En informática: objeto creado a partir de una clase.</descrip>
+        <langSet xml:lang="en"><tig><term>instance</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>instancia</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term.instance[1]">
+        <langSet xml:lang="en"><tig><term>instances</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>instancias</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_is">
+        <langSet xml:lang="en"><tig><term>is</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>es</term></tig></langSet>
+        <note from="translator">Alternativa: está</note>
+      </termEntry>
       <termEntry id="term.item[0]">
         <langSet xml:lang="en"><tig><term>item</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>objeto</term></tig></langSet>
@@ -1536,6 +1662,23 @@
       <termEntry id="verb_like_3p">
         <langSet xml:lang="en"><tig><term>likes</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>gusta</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_link_gerund">
+        <langSet xml:lang="en"><tig><term>linking</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>vinculando</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_link_3p">
+        <langSet xml:lang="en"><tig><term>links</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>vincula</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_link_inf">
+        <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>vincular</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_linked_adj">
+        <langSet xml:lang="en"><tig><term>linked</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>vinculado</term></tig></langSet>
+        <note from="translator">Femenino/plural: vinculada(s), vinculados.</note>
       </termEntry>
       <termEntry id="term_lit">
         <langSet xml:lang="en"><tig><term>lit</term></tig></langSet>
@@ -1775,6 +1918,15 @@
         <langSet xml:lang="es"><tig><term>siguiente</term></tig></langSet>
         <note from="translator">Alternativa: próximo</note>
       </termEntry>
+      <termEntry id="term.npc[0]">
+        <langSet xml:lang="en"><tig><term>NPC</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>PNJ</term></tig></langSet>
+        <note from="translator">Personaje No Jugador.</note>
+      </termEntry>
+      <termEntry id="term.npc[1]">
+        <langSet xml:lang="en"><tig><term>NPCs</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>PNJs</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_not">
         <langSet xml:lang="en"><tig><term>not</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>no</term></tig></langSet>
@@ -1822,6 +1974,15 @@
         <langSet xml:lang="en"><tig><term>nurses</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>enfermeras</term></tig></langSet>
         <note from="translator">Masculino: enfermeros.</note>
+      </termEntry>
+      <termEntry id="term.occupation[0]">
+        <langSet xml:lang="en"><tig><term>occupation</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ocupación</term></tig></langSet>
+        <note from="translator">También: profesión, empleo.</note>
+      </termEntry>
+      <termEntry id="term.occupation[1]">
+        <langSet xml:lang="en"><tig><term>occupations</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ocupaciones</term></tig></langSet>
       </termEntry>
       <termEntry id="term_occult">
         <langSet xml:lang="en"><tig><term>occult</term></tig></langSet>
@@ -2696,6 +2857,11 @@
         <langSet xml:lang="en"><tig><term>swirl</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>girar</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_synthetic_adj">
+        <langSet xml:lang="en"><tig><term>synthetic</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sintético</term></tig></langSet>
+        <note from="translator">Femenino/plural: sintética(s), sintéticos.</note>
+      </termEntry>
       <termEntry id="term.system">
         <langSet xml:lang="en"><tig><term>system</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>sistema</term></tig></langSet>
@@ -2999,6 +3165,14 @@
       <termEntry id="term_various">
         <langSet xml:lang="en"><tig><term>various</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>varios</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term.vehicle[0]">
+        <langSet xml:lang="en"><tig><term>vehicle</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>vehículo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term.vehicle[1]">
+        <langSet xml:lang="en"><tig><term>vehicles</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>vehículos</term></tig></langSet>
       </termEntry>
       <termEntry id="term_venture">
         <langSet xml:lang="en"><tig><term>venture</term></tig></langSet>
