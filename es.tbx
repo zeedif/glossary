@@ -381,6 +381,10 @@
         <langSet xml:lang="es"><tig><term>aplicable</term></tig></langSet>
         <note from="translator">Alternativa: corresponde.</note>
       </termEntry>
+      <termEntry id="term_approach_noun">
+        <langSet xml:lang="en"><tig><term>approach</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cautela</term></tig></langSet>
+      </termEntry>
       <termEntry id="verb_approach_inf">
         <langSet xml:lang="en"><tig><term>approach</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>acercarse</term></tig></langSet>
@@ -451,6 +455,10 @@
         <langSet xml:lang="en"><tig><term>arriving</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>llegando</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_joints">
+        <langSet xml:lang="en"><tig><term>articulaciones</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>joints</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_artwork">
         <langSet xml:lang="en"><tig><term>artwork</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>ilustración</term></tig></langSet>
@@ -491,6 +499,10 @@
       <termEntry id="term_assistant">
         <langSet xml:lang="en"><tig><term>assistant</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>ayudante</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_key_binding">
+        <langSet xml:lang="en"><tig><term>atajo</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>key binding</term></tig></langSet>
       </termEntry>
       <termEntry id="term_attached">
         <langSet xml:lang="en"><tig><term>attached</term></tig></langSet>
@@ -808,6 +820,26 @@
         <langSet xml:lang="en"><tig><term>block</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>bloque</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_lock_noun">
+        <langSet xml:lang="en"><tig><term>lock</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cerradura</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_lock_inf">
+        <langSet xml:lang="en"><tig><term>lock</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>bloquear</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_lock_past">
+        <langSet xml:lang="en"><tig><term>locked</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>bloqueado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_lock_3p">
+        <langSet xml:lang="en"><tig><term>locks</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>bloquea</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_lock_gerund">
+        <langSet xml:lang="en"><tig><term>locking</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>bloqueando</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_blockquote">
         <langSet xml:lang="en"><tig><term>blockquote</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>cita</term></tig></langSet>
@@ -1023,6 +1055,10 @@
         <langSet xml:lang="en"><tig><term>camera</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>cámara</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_field_noun">
+        <langSet xml:lang="en"><tig><term>campo</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>field</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_can">
         <langSet xml:lang="en"><tig><term>can</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>puede</term></tig></langSet>
@@ -1046,6 +1082,10 @@
       <termEntry id="term_caption">
         <langSet xml:lang="en"><tig><term>caption</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>texto</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_characteristic_noun">
+        <langSet xml:lang="en"><tig><term>characteristic</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>característica</term></tig></langSet>
       </termEntry>
       <termEntry id="term.card[0]">
         <descrip>En "Events": evento de selección.</descrip>
@@ -1263,6 +1303,10 @@
       <termEntry id="term_circle[1]">
         <langSet xml:lang="en"><tig><term>circles</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>círculos</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_claro">
+        <langSet xml:lang="en"><tig><term>claro</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>claro</term></tig></langSet>
       </termEntry>
       <termEntry id="term_classroom">
         <langSet xml:lang="en"><tig><term>classroom</term></tig></langSet>
@@ -1537,6 +1581,10 @@
       <termEntry id="term_constitution">
         <langSet xml:lang="en"><tig><term>constitution</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>constitución</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_touch_noun">
+        <langSet xml:lang="en"><tig><term>contacto</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>touch</term></tig></langSet>
       </termEntry>
       <termEntry id="term_contact">
         <langSet xml:lang="en"><tig><term>contact</term></tig></langSet>
@@ -2000,13 +2048,17 @@
         <langSet xml:lang="en"><tig><term>dexterity</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>destreza</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_die[1]">
-        <langSet xml:lang="en"><tig><term>dice</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>dados</term></tig></langSet>
+      <termEntry id="term_journal">
+        <langSet xml:lang="en"><tig><term>diario</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>journal</term></tig></langSet>
       </termEntry>
       <termEntry id="term_die[0]">
         <langSet xml:lang="en"><tig><term>die</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>dado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_die[1]">
+        <langSet xml:lang="en"><tig><term>dice</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>dados</term></tig></langSet>
       </termEntry>
       <termEntry id="term_difficulty">
         <langSet xml:lang="en"><tig><term>difficulty</term></tig></langSet>
@@ -2175,7 +2227,7 @@
       </termEntry>
       <termEntry id="verb_dodge_gerund">
         <langSet xml:lang="en"><tig><term>dodging</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>esquivar</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>esquivando</term></tig></langSet>
       </termEntry>
       <termEntry id="term.doll[0]">
         <langSet xml:lang="en"><tig><term>doll</term></tig></langSet>
@@ -2214,14 +2266,6 @@
         <langSet xml:lang="en"><tig><term>drag</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>arrastrar</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_drawing[0]">
-        <langSet xml:lang="en"><tig><term>drawing</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>dibujo</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_drawing[1]">
-        <langSet xml:lang="en"><tig><term>drawings</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>dibujos</term></tig></langSet>
-      </termEntry>
       <termEntry id="verb_draw_inf">
         <descrip>En juegos de cartas: robar.</descrip>
         <langSet xml:lang="en"><tig><term>draw</term></tig></langSet>
@@ -2243,6 +2287,14 @@
         <descrip>En juegos de cartas: robando.</descrip>
         <langSet xml:lang="en"><tig><term>drawing</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>dibujando</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_drawing[0]">
+        <langSet xml:lang="en"><tig><term>drawing</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>dibujo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_drawing[1]">
+        <langSet xml:lang="en"><tig><term>drawings</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>dibujos</term></tig></langSet>
       </termEntry>
       <termEntry id="verb_draw_past">
         <descrip>En juegos de cartas: robó.</descrip>
@@ -2609,6 +2661,14 @@
         <langSet xml:lang="en"><tig><term>face</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>anverso</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_face[0]">
+        <langSet xml:lang="en"><tig><term>face</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cara</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_face[1]">
+        <langSet xml:lang="en"><tig><term>faces</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>caras</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_facedown">
         <langSet xml:lang="en"><tig><term>facedown</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>boca abajo</term></tig></langSet>
@@ -2694,6 +2754,10 @@
         <langSet xml:lang="en"><tig><term>feel</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>sentir</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_field">
+        <langSet xml:lang="en"><tig><term>field</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>campo</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_fight_noun[0]">
         <langSet xml:lang="en"><tig><term>fight</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>lucha</term></tig></langSet>
@@ -2728,9 +2792,13 @@
         <langSet xml:lang="en"><tig><term>figurines</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>estatuillas</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_file">
+      <termEntry id="term_file[0]">
         <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>archivo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_file[1]">
+        <langSet xml:lang="en"><tig><term>files</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>archivos</term></tig></langSet>
       </termEntry>
       <termEntry id="verb_fill_3p">
         <langSet xml:lang="en"><tig><term>fills</term></tig></langSet>
@@ -2862,6 +2930,10 @@
         <langSet xml:lang="es"><tig><term>prohibido</term></tig></langSet>
         <note from="translator">Femenino/plural: prohibida(s), prohibidos.</note>
       </termEntry>
+      <termEntry id="term_foreground">
+        <langSet xml:lang="en"><tig><term>foreground</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>superior</term></tig></langSet>
+      </termEntry>
       <termEntry id="verb_force_inf">
         <langSet xml:lang="en"><tig><term>force</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>forzar</term></tig></langSet>
@@ -2958,6 +3030,10 @@
         <langSet xml:lang="es"><tig><term>director de juego</term></tig></langSet>
         <note from="translator">Alternativa: Maestro de Juego. Abreviado: DJ, GM. En CoC: Guardián.</note>
       </termEntry>
+      <termEntry id="term_gamemaster">
+        <langSet xml:lang="en"><tig><term>gamemaster</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>director de juego</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_gathered">
         <langSet xml:lang="en"><tig><term>gathered</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>reunido</term></tig></langSet>
@@ -2982,11 +3058,11 @@
         <langSet xml:lang="en"><tig><term>ghostly</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>fantasmal</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_gift[0]">
+      <termEntry id="term_gift_noun[0]">
         <langSet xml:lang="en"><tig><term>gift</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>regalo</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_gift[1]">
+      <termEntry id="term_gift_noun[1]">
         <langSet xml:lang="en"><tig><term>gifts</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>regalos</term></tig></langSet>
       </termEntry>
@@ -3070,6 +3146,10 @@
         <langSet xml:lang="en"><tig><term>group</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>grupal</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_keeper">
+        <langSet xml:lang="en"><tig><term>keeper</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>guardián</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_guaranteed">
         <langSet xml:lang="en"><tig><term>guaranteed</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>garantizado</term></tig></langSet>
@@ -3077,6 +3157,10 @@
       <termEntry id="term_guess">
         <langSet xml:lang="en"><tig><term>guess</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>suponer</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_there_are">
+        <langSet xml:lang="en"><tig><term>there are</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>hay</term></tig></langSet>
       </termEntry>
       <termEntry id="term_hand_noun[0]">
         <langSet xml:lang="en"><tig><term>hand</term></tig></langSet>
@@ -3322,6 +3406,10 @@
         <langSet xml:lang="en"><tig><term>idea</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>idea</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_language">
+        <langSet xml:lang="en"><tig><term>idioma</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>language</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_if">
         <langSet xml:lang="en"><tig><term>if</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>si</term></tig></langSet>
@@ -3514,6 +3602,11 @@
       <termEntry id="term_involuntary">
         <langSet xml:lang="en"><tig><term>involuntary</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>involuntaria</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_radioactive">
+        <langSet xml:lang="en"><tig><term>radioactive</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>radiactivo</term></tig></langSet>
+        <note from="translator">Alternativa: irradiado.</note>
       </termEntry>
       <termEntry id="term_is">
         <langSet xml:lang="en"><tig><term>is</term></tig></langSet>
