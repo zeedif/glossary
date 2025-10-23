@@ -1430,10 +1430,6 @@
         <langSet xml:lang="en"><tig><term>help</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>ayudar</term></tig></langSet>
       </termEntry>
-      <termEntry id="verb_help_3p">
-        <langSet xml:lang="en"><tig><term>helps</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>ayuda</term></tig></langSet>
-      </termEntry>
       <termEntry id="term_her">
         <descrip>Posesivo: su.</descrip>
         <langSet xml:lang="en"><tig><term>her</term></tig></langSet>
@@ -3311,11 +3307,6 @@
       <termEntry id="term.wound[1]">
         <langSet xml:lang="en"><tig><term>wounds</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>heridas</term></tig></langSet>
-      </termEntry>
-      <termEntry id="verb_work_gerund">
-        <langSet xml:lang="en"><tig><term>working</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>trabajando</term></tig></langSet>
-        <note from="translator">De una máquina: funcionando.</note>
       </termEntry>
       <termEntry id="term.year[0]">
         <langSet xml:lang="en"><tig><term>year</term></tig></langSet>
