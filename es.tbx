@@ -5294,6 +5294,11 @@
         <langSet xml:lang="en"><tig><term>quickly</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>rápidamente</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_radioactive">
+        <langSet xml:lang="en"><tig><term>radioactive</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>radiactivo</term></tig></langSet>
+        <note from="translator">Alternativa: irradiado.</note>
+      </termEntry>
       <termEntry id="term_radius_noun[0]">
         <langSet xml:lang="en"><tig><term>radius</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>radio</term></tig></langSet>
