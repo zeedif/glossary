@@ -295,14 +295,14 @@
         <langSet xml:lang="es"><tig><term>un</term></tig></langSet>
         <note from="translator">También: una.</note>
       </termEntry>
-      <termEntry id="verb_anchor_inf">
-        <langSet xml:lang="en"><tig><term>anchor</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>anclar</term></tig></langSet>
-      </termEntry>
       <termEntry id="term_anchored">
         <langSet xml:lang="en"><tig><term>anchored</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>anclado</term></tig></langSet>
         <note from="translator">Femenino/plural: anclada(s), anclados.</note>
+      </termEntry>
+      <termEntry id="verb_anchor_inf">
+        <langSet xml:lang="en"><tig><term>anchor</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>anclar</term></tig></langSet>
       </termEntry>
       <termEntry id="verb_anchor_3p">
         <langSet xml:lang="en"><tig><term>anchors</term></tig></langSet>
@@ -317,15 +317,15 @@
         <langSet xml:lang="es"><tig><term>y</term></tig></langSet>
         <note from="translator">Antes de 'i-' o 'hi-': e.</note>
       </termEntry>
-      <termEntry id="verb_anger_inf">
-        <langSet xml:lang="en"><tig><term>anger</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>enfurecer</term></tig></langSet>
-        <note from="translator">Alternativa: enojar.</note>
-      </termEntry>
       <termEntry id="term_angered_adj">
         <langSet xml:lang="en"><tig><term>angered</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>enfurecido</term></tig></langSet>
         <note from="translator">Femenino/plural: enfurecida(s), enfurecidos.</note>
+      </termEntry>
+      <termEntry id="verb_anger_inf">
+        <langSet xml:lang="en"><tig><term>anger</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>enfurecer</term></tig></langSet>
+        <note from="translator">Alternativa: enojar.</note>
       </termEntry>
       <termEntry id="term_angers">
         <langSet xml:lang="en"><tig><term>angers</term></tig></langSet>
@@ -1628,10 +1628,6 @@
         <langSet xml:lang="en"><tig><term>connected</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>conectado</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_constrained">
-        <langSet xml:lang="en"><tig><term>constrained</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>limitado</term></tig></langSet>
-      </termEntry>
       <termEntry id="verb_consume_inf">
         <langSet xml:lang="en"><tig><term>consume</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>consumir</term></tig></langSet>
@@ -1647,6 +1643,10 @@
       <termEntry id="verb_consume_gerund">
         <langSet xml:lang="en"><tig><term>consuming</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>consumiendo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_constrained">
+        <langSet xml:lang="en"><tig><term>constrained</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>limitado</term></tig></langSet>
       </termEntry>
       <termEntry id="term_contact">
         <langSet xml:lang="en"><tig><term>contact</term></tig></langSet>
@@ -1672,13 +1672,13 @@
         <langSet xml:lang="en"><tig><term>contents</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>contenidos</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_continue">
-        <langSet xml:lang="en"><tig><term>continue</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>continuar</term></tig></langSet>
-      </termEntry>
       <termEntry id="term_constitution">
         <langSet xml:lang="en"><tig><term>constitution</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>constitución</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_continue">
+        <langSet xml:lang="en"><tig><term>continue</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>continuar</term></tig></langSet>
       </termEntry>
       <termEntry id="term_contrast">
         <langSet xml:lang="en"><tig><term>contrast</term></tig></langSet>
