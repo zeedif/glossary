@@ -2524,14 +2524,14 @@
         <langSet xml:lang="en"><tig><term>empty</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>vacío</term></tig></langSet>
       </termEntry>
-      <termEntry id="verb_enable_inf">
-        <langSet xml:lang="en"><tig><term>enable</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>habilitar</term></tig></langSet>
-      </termEntry>
       <termEntry id="term_enabled">
         <langSet xml:lang="en"><tig><term>enabled</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>habilitado</term></tig></langSet>
         <note from="translator">Femenino/plural: habilitada(s), habilitados.</note>
+      </termEntry>
+      <termEntry id="verb_enable_inf">
+        <langSet xml:lang="en"><tig><term>enable</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>habilitar</term></tig></langSet>
       </termEntry>
       <termEntry id="term.encounter[0]">
         <langSet xml:lang="en"><tig><term>encounter</term></tig></langSet>
@@ -2777,6 +2777,10 @@
         <langSet xml:lang="en"><tig><term>facedown</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>boca abajo</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_failure">
+        <langSet xml:lang="en"><tig><term>failure</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>fracaso</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_failed_adj">
         <langSet xml:lang="en"><tig><term>failed</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>fallido</term></tig></langSet>
@@ -2797,10 +2801,6 @@
       <termEntry id="verb_fail_gerund">
         <langSet xml:lang="en"><tig><term>failing</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>fallando</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_failure">
-        <langSet xml:lang="en"><tig><term>failure</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>fracaso</term></tig></langSet>
       </termEntry>
       <termEntry id="term_fallen">
         <langSet xml:lang="en"><tig><term>fallen</term></tig></langSet>
@@ -3576,10 +3576,6 @@
         <langSet xml:lang="en"><tig><term>impale</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>empalamiento</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_impossible">
-        <langSet xml:lang="en"><tig><term>impossible</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>imposible</term></tig></langSet>
-      </termEntry>
       <termEntry id="verb_import_inf">
         <langSet xml:lang="en"><tig><term>import</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>importar</term></tig></langSet>
@@ -3595,6 +3591,10 @@
       <termEntry id="verb_import_gerund">
         <langSet xml:lang="en"><tig><term>importing</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>importando</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_impossible">
+        <langSet xml:lang="en"><tig><term>impossible</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>imposible</term></tig></langSet>
       </termEntry>
       <termEntry id="term_in">
         <langSet xml:lang="en"><tig><term>in</term></tig></langSet>
