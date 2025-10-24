@@ -3414,6 +3414,11 @@
         <langSet xml:lang="en"><tig><term>hide</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>ocultar</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_highly-decorated_adj">
+        <langSet xml:lang="en"><tig><term>highly-decorated</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>condecorado</term></tig></langSet>
+        <note from="translator">Femenino/plural: condecorada(s), condecorados.</note>
+      </termEntry>
       <termEntry id="verb_highlight_inf">
         <langSet xml:lang="en"><tig><term>highlight</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>destacar</term></tig></langSet>
@@ -3544,6 +3549,16 @@
         <langSet xml:lang="en"><tig><term>idea</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>idea</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_idler[0]">
+        <langSet xml:lang="en"><tig><term>idler</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>inactivo</term></tig></langSet>
+        <note from="translator">Femenino: inactiva.</note>
+      </termEntry>
+      <termEntry id="term_idler[1]">
+        <langSet xml:lang="en"><tig><term>idlers</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>inactivos</term></tig></langSet>
+        <note from="translator">Femenino: inactivas.</note>
+      </termEntry>
       <termEntry id="term_if">
         <langSet xml:lang="en"><tig><term>if</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>si</term></tig></langSet>
@@ -3624,6 +3639,30 @@
         <langSet xml:lang="en"><tig><term>increasing</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>aumentando</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_index[0]">
+        <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>índice</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_index[1]">
+        <langSet xml:lang="en"><tig><term>indexes</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>índices</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_index_inf">
+        <langSet xml:lang="en"><tig><term>index</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>indexar</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_index_past">
+        <langSet xml:lang="en"><tig><term>indexed</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>indexado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_index_3p">
+        <langSet xml:lang="en"><tig><term>indexes</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>indexa</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_index_gerund">
+        <langSet xml:lang="en"><tig><term>indexing</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>indexando</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_indefinite">
         <langSet xml:lang="en"><tig><term>indefinite</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>indefinida</term></tig></langSet>
@@ -3698,6 +3737,11 @@
       <termEntry id="verb_install_gerund">
         <langSet xml:lang="en"><tig><term>installing</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>instalando</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_instead">
+        <langSet xml:lang="en"><tig><term>instead</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>en lugar</term></tig></langSet>
+        <note from="translator">Alternativas: en su lugar, en vez de.</note>
       </termEntry>
       <termEntry id="term.instance[0]">
         <descrip>En informática: objeto creado a partir de una clase.</descrip>
