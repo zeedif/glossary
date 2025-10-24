@@ -4932,8 +4932,8 @@
       <termEntry id="verb_pickup_inf">
         <langset xml:lang="en"><tig><term>pickup</term></tig></langset>
         <langset xml:lang="es"><tig><term>recoger</term></tig></langset>
-      </termentry>
-      <termentry id="verb_pickup_3p">
+      </termEntry>
+      <termEntry id="verb_pickup_3p">
         <langset xml:lang="en"><tig><term>picks up</term></tig></langset>
         <langset xml:lang="es"><tig><term>recoge</term></tig></langset>
       </termEntry>
