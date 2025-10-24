@@ -7303,20 +7303,30 @@
         <langSet xml:lang="en"><tig><term>threshold</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>umbral</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_throw">
+      <termEntry id="verb_throw_inf">
         <langSet xml:lang="en"><tig><term>throw</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>lanzar</term></tig></langSet>
-        <note from="translator">Alternativa: arrojar</note>
+        <note from="translator">Alternativa: arrojar.</note>
       </termEntry>
-      <termEntry id="term_thrown">
+      <termEntry id="term_thrown_participle">
         <langSet xml:lang="en"><tig><term>thrown</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>lanzado</term></tig></langSet>
-        <note from="translator">Alternativa: arrojado</note>
+        <note from="translator">Alternativa: arrojado.</note>
       </termEntry>
-      <termEntry id="term_throws">
+      <termEntry id="verb_throw_past">
+        <langSet xml:lang="en"><tig><term>threw</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>lanzó</term></tig></langSet>
+        <note from="translator">Alternativa: arrojó.</note>
+      </termEntry>
+      <termEntry id="verb_throw_3p">
         <langSet xml:lang="en"><tig><term>throws</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>lanza</term></tig></langSet>
-        <note from="translator">Alternativa: arrojar</note>
+        <note from="translator">Alternativa: arroja.</note>
+      </termEntry>
+      <termEntry id="verb_throw_gerund">
+        <langSet xml:lang="en"><tig><term>throwing</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>lanzando</term></tig></langSet>
+        <note from="translator">Alternativa: arrojando.</note>
       </termEntry>
       <termEntry id="term_tie">
         <langSet xml:lang="en"><tig><term>tie</term></tig></langSet>
@@ -7482,6 +7492,11 @@
         <langSet xml:lang="en"><tig><term>transfer</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>transferencia</term></tig></langSet>
         <note from="translator">Como adjetivo: de intercambio. Como verbo: transferido.</note>
+      </termEntry>
+      <termEntry id="term_transient_adj">
+        <langSet xml:lang="en"><tig><term>transient</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>transitorio</term></tig></langSet>
+        <note from="translator">Femenino/plural: transitoria(s), transitorios.</note>
       </termEntry>
       <termEntry id="term_travel">
         <langSet xml:lang="en"><tig><term>travel</term></tig></langSet>
@@ -7671,6 +7686,11 @@
         <langSet xml:lang="es"><tig><term>sin importancia</term></tig></langSet>
         <note from="translator">Alternativas: ajeno, extraño, no relacionado</note>
       </termEntry>
+      <termEntry id="term_untrained_adj">
+        <langSet xml:lang="en"><tig><term>untrained</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>novato</term></tig></langSet>
+        <note from="translator">Alternativas: inexperto, sin entrenamiento. Femenino/plural: novata(s), novatos.</note>
+      </termEntry>
       <termEntry id="term_unknown">
         <langSet xml:lang="en"><tig><term>unknown</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>desconocido</term></tig></langSet>
@@ -7780,6 +7800,22 @@
         <langSet xml:lang="en"><tig><term>views</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>vistas</term></tig></langSet>
       </termEntry>
+      <termEntry id="verb_view_inf">
+        <langSet xml:lang="en"><tig><term>view</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ver</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_view_past">
+        <langSet xml:lang="en"><tig><term>viewed</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>visto</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_view_3p">
+        <langSet xml:lang="en"><tig><term>views</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ve</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_view_gerund">
+        <langSet xml:lang="en"><tig><term>viewing</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>viendo</term></tig></langSet>
+      </termEntry>
       <termEntry id="term.villager[0]">
         <langSet xml:lang="en"><tig><term>villager</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>poblador</term></tig></langSet>
@@ -7797,6 +7833,14 @@
       <termEntry id="term.vision">
         <langSet xml:lang="en"><tig><term>vision</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>visión</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_voice_chat[0]">
+        <langSet xml:lang="en"><tig><term>voice chat</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>chat de voz</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_voice_chat[1]">
+        <langSet xml:lang="en"><tig><term>voice chats</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>chats de voz</term></tig></langSet>
       </termEntry>
       <termEntry id="term_vr">
         <langSet xml:lang="en"><tig><term>vr</term></tig></langSet>
