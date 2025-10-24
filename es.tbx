@@ -6413,10 +6413,10 @@
         <langSet xml:lang="en"><tig><term>spends</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>gasta</term></tig></langSet>
       </termEntry>
-      <verb_spend_gerund>
+      <termEntry id="verb_spend_gerund">
         <langSet xml:lang="en"><tig><term>spending</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>gastando</term></tig></langSet>
-      </verb_spend_gerund>
+      </termEntry>
       <termEntry id="term_spending_level">
         <langSet xml:lang="en"><tig><term>spending level</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>nivel de gasto</term></tig></langSet>
