@@ -1432,7 +1432,11 @@
         <langSet xml:lang="en"><tig><term>closing</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>cerrando</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_clouds">
+      <termEntry id="term_cloud_noun[0]">
+        <langSet xml:lang="en"><tig><term>cloud</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>nube</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_cloud_noun[1]">
         <langSet xml:lang="en"><tig><term>clouds</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>nubes</term></tig></langSet>
       </termEntry>
@@ -1623,6 +1627,14 @@
       <termEntry id="verb_configure_gerund">
         <langSet xml:lang="en"><tig><term>configuring</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>configurando</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_connection_noun[0]">
+        <langSet xml:lang="en"><tig><term>connection</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>conexión</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_connection_noun[1]">
+        <langSet xml:lang="en"><tig><term>connections</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>conexiones</term></tig></langSet>
       </termEntry>
       <termEntry id="term_connected">
         <langSet xml:lang="en"><tig><term>connected</term></tig></langSet>
@@ -2124,6 +2136,14 @@
       <termEntry id="term_development">
         <langSet xml:lang="en"><tig><term>development</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>desarrollo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_device_noun[0]">
+        <langSet xml:lang="en"><tig><term>device</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>dispositivo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_device_noun[1]">
+        <langSet xml:lang="en"><tig><term>devices</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>dispositivos</term></tig></langSet>
       </termEntry>
       <termEntry id="term_devil">
         <langSet xml:lang="en"><tig><term>devil</term></tig></langSet>
@@ -2749,6 +2769,11 @@
         <langSet xml:lang="en"><tig><term>exquisite</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>exquisito</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_external_adj">
+        <langSet xml:lang="en"><tig><term>external</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>externo</term></tig></langSet>
+        <note from="translator">Femenino/plural: externa(s), externos.</note>
+      </termEntry>
       <termEntry id="term_extra">
         <langSet xml:lang="en"><tig><term>extra</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>extra</term></tig></langSet>
@@ -2853,6 +2878,33 @@
       <termEntry id="term_feel">
         <langSet xml:lang="en"><tig><term>feel</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>sentir</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_fetch_noun[0]">
+        <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>obtención</term></tig></langSet>
+        <note from="translator">Alternativas: búsqueda, recuperación.</note>
+      </termEntry>
+      <termEntry id="term_fetch_noun[1]">
+        <langSet xml:lang="en"><tig><term>fetches</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>obtenciones</term></tig></langSet>
+        <note from="translator">Alternativas: búsquedas, recuperaciones.</note>
+      </termEntry>
+      <termEntry id="verb_fetch_inf">
+        <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>obtener</term></tig></langSet>
+        <note from="translator">Alternativas: buscar, recuperar.</note>
+      </termEntry>
+      <termEntry id="verb_fetch_past">
+        <langSet xml:lang="en"><tig><term>fetched</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>obtenido</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_fetch_3p">
+        <langSet xml:lang="en"><tig><term>fetches</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>obtiene</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_fetch_gerund">
+        <langSet xml:lang="en"><tig><term>fetching</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>obteniendo</term></tig></langSet>
       </termEntry>
       <termEntry id="term_field">
         <langSet xml:lang="en"><tig><term>field</term></tig></langSet>
@@ -3254,6 +3306,30 @@
         <langSet xml:lang="en"><tig><term>grant</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>conceder</term></tig></langSet>
         <note from="translator">Alternativa (sustantivo): beca.</note>
+      </termEntry>
+      <termEntry id="term_grayscale_noun[0]">
+        <langSet xml:lang="en"><tig><term>grayscale</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>escala de grises</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_grayscale_adj">
+        <langSet xml:lang="en"><tig><term>grayscale</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>en escala de grises</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_grayscale_inf">
+        <langSet xml:lang="en"><tig><term>grayscale</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>convertir a escala de grises</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_grayscale_past">
+        <langSet xml:lang="en"><tig><term>grayscaled</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>convertido a escala de grises</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_grayscale_3p">
+        <langSet xml:lang="en"><tig><term>grayscales</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>convierte a escala de grises</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_grayscale_gerund">
+        <langSet xml:lang="en"><tig><term>grayscaling</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>convirtiendo a escala de grises</term></tig></langSet>
       </termEntry>
       <termEntry id="term_grave">
         <langSet xml:lang="en"><tig><term>grave</term></tig></langSet>
@@ -4635,6 +4711,14 @@
         <langSet xml:lang="en"><tig><term>nervous</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>nervioso</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_network_noun[0]">
+        <langSet xml:lang="en"><tig><term>network</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>red</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_network_noun[1]">
+        <langSet xml:lang="en"><tig><term>networks</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>redes</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_never">
         <langSet xml:lang="en"><tig><term>never</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>jamás</term></tig></langSet>
@@ -5743,6 +5827,22 @@
         <langSet xml:lang="en"><tig><term>recovering</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>recuperando</term></tig></langSet>
       </termEntry>
+      <termEntry id="verb_reduce_inf">
+        <langSet xml:lang="en"><tig><term>reduce</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reducir</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_reduce_past">
+        <langSet xml:lang="en"><tig><term>reduced</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reducido</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_reduce_3p">
+        <langSet xml:lang="en"><tig><term>reduces</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reduce</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_reduce_gerund">
+        <langSet xml:lang="en"><tig><term>reducing</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reduciendo</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_recruit_noun[0]">
         <langSet xml:lang="en"><tig><term>recruit</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>recluta</term></tig></langSet>
@@ -5793,6 +5893,32 @@
       <termEntry id="verb_remove_gerund">
         <langSet xml:lang="en"><tig><term>removing</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>quitando</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_render_noun[0]">
+        <langSet xml:lang="en"><tig><term>render</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>render</term></tig></langSet>
+        <note from="translator">También se puede usar "renderizado" como sustantivo.</note>
+      </termEntry>
+      <termEntry id="term_render_noun[1]">
+        <langSet xml:lang="en"><tig><term>renders</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>renders</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_render_inf">
+        <langSet xml:lang="en"><tig><term>render</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>renderizar</term></tig></langSet>
+        <note from="translator">Alternativas: procesar, generar (gráficamente).</note>
+      </termEntry>
+      <termEntry id="verb_render_past">
+        <langSet xml:lang="en"><tig><term>rendered</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>renderizado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_render_3p">
+        <langSet xml:lang="en"><tig><term>renders</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>renderiza</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_render_gerund">
+        <langSet xml:lang="en"><tig><term>rendering</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>renderizando</term></tig></langSet>
       </termEntry>
       <termEntry id="verb_rename_inf">
         <langSet xml:lang="en"><tig><term>rename</term></tig></langSet>
@@ -5962,6 +6088,35 @@
         <langSet xml:lang="en"><tig><term>results</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>resultados</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_retrieved">
+        <langSet xml:lang="en"><tig><term>retrieved</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sacado</term></tig></langSet>
+        <note from="translator">Alternativas: recuperado, retirado.</note>
+      </termEntry>
+      <termEntry id="term_retry_noun[0]">
+        <langSet xml:lang="en"><tig><term>retry</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reintento</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_retry_noun[1]">
+        <langSet xml:lang="en"><tig><term>retries</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reintentos</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_retry_inf">
+        <langSet xml:lang="en"><tig><term>retry</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reintentar</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_retry_past">
+        <langSet xml:lang="en"><tig><term>retried</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reintentado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_retry_3p">
+        <langSet xml:lang="en"><tig><term>retries</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reintenta</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_retry_gerund">
+        <langSet xml:lang="en"><tig><term>retrying</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reintentando</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_return">
         <langSet xml:lang="en"><tig><term>return</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>regresar</term></tig></langSet>
@@ -5970,11 +6125,6 @@
         <langset xml:lang="en"><tig><term>returned</term></tig></langset>
         <langset xml:lang="es"><tig><term>devuelto</term></tig></langset>
         <note from="translator">Femenino/plural: devuelta(s), devueltos.</note>
-      </termEntry>
-      <termEntry id="term_retrieved">
-        <langSet xml:lang="en"><tig><term>retrieved</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>sacado</term></tig></langSet>
-        <note from="translator">Alternativas: recuperado, retirado.</note>
       </termEntry>
       <termEntry id="verb_reveal_inf">
         <langSet xml:lang="en"><tig><term>reveal</term></tig></langSet>
@@ -6451,6 +6601,10 @@
         <langSet xml:lang="en"><tig><term>shake</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>sacudir</term></tig></langSet>
       </termEntry>
+      <termEntry id="verb_shake_past">
+        <langSet xml:lang="en"><tig><term>shook</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sacudió</term></tig></langSet>
+      </termEntry>
       <termEntry id="verb_shake_past_participle">
         <langSet xml:lang="en"><tig><term>shaken</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>sacudido</term></tig></langSet>
@@ -6504,10 +6658,6 @@
       <termEntry id="term_shocked">
         <langSet xml:lang="en"><tig><term>shocked</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>conmocionado</term></tig></langSet>
-      </termEntry>
-      <termEntry id="verb_shake_past">
-        <langSet xml:lang="en"><tig><term>shook</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>sacudió</term></tig></langSet>
       </termEntry>
       <termEntry id="term_shopping">
         <langSet xml:lang="en"><tig><term>shopping</term></tig></langSet>
@@ -6942,9 +7092,13 @@
         <langSet xml:lang="en"><tig><term>stopping</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>deteniendo</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_storage_noun">
+      <termEntry id="term_storage_noun[0]">
         <langSet xml:lang="en"><tig><term>storage</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>almacén</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>almacenamiento</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_storage_noun[1]">
+        <langSet xml:lang="en"><tig><term>storages</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>almacenamientos</term></tig></langSet>
       </termEntry>
       <termEntry id="verb_store_inf">
         <langSet xml:lang="en"><tig><term>store</term></tig></langSet>
@@ -7352,15 +7506,15 @@
         <langSet xml:lang="es"><tig><term>lanzar</term></tig></langSet>
         <note from="translator">Alternativa: arrojar.</note>
       </termEntry>
-      <termEntry id="term_thrown_participle">
-        <langSet xml:lang="en"><tig><term>thrown</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>lanzado</term></tig></langSet>
-        <note from="translator">Alternativa: arrojado.</note>
-      </termEntry>
       <termEntry id="verb_throw_past">
         <langSet xml:lang="en"><tig><term>threw</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>lanzó</term></tig></langSet>
         <note from="translator">Alternativa: arrojó.</note>
+      </termEntry>
+      <termEntry id="term_thrown_participle">
+        <langSet xml:lang="en"><tig><term>thrown</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>lanzado</term></tig></langSet>
+        <note from="translator">Alternativa: arrojado.</note>
       </termEntry>
       <termEntry id="verb_throw_3p">
         <langSet xml:lang="en"><tig><term>throws</term></tig></langSet>
@@ -7778,6 +7932,14 @@
       <termEntry id="term_url">
         <langSet xml:lang="en"><tig><term>url</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>url</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_usage_noun[0]">
+        <langSet xml:lang="en"><tig><term>usage</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>uso</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_usage_noun[1]">
+        <langSet xml:lang="en"><tig><term>usages</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>usos</term></tig></langSet>
       </termEntry>
       <termEntry id="verb_use_inf">
         <langSet xml:lang="en"><tig><term>use</term></tig></langSet>
