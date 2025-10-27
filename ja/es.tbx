@@ -103,10 +103,20 @@
         <descrip>Primer capítulo o episodio de una obra.</descrip>
         <note from="translator">Alternativa: capítulo 1.</note>
       </termEntry>
+      <termEntry id="term_darou">
+        <langSet xml:lang="ja"><tig><term>だろう</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>supongo</term></tig></langSet>
+        <descrip>Partícula final que indica suposición o probabilidad. Versión informal de 'deshou'.</descrip>
+      </termEntry>
       <termEntry id="term_denshou">
         <langSet xml:lang="ja"><tig><term>伝承</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>efectivamente</term></tig></langSet>
         <descrip>Tradición, leyenda o folclore.</descrip>
+      </termEntry>
+      <termEntry id="term_desune">
+        <langSet xml:lang="ja"><tig><term>ですね</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cierto</term></tig></langSet>
+        <descrip>Expresión de acuerdo, similar a 'así es' o 'es verdad'.</descrip>
       </termEntry>
       <termEntry id="term_doukutsu">
         <langSet xml:lang="ja"><tig><term>洞窟</term></tig></langSet>
@@ -122,6 +132,11 @@
         <langSet xml:lang="ja"><tig><term>え</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>¿eh?</term></tig></langSet>
         <descrip>Interjección de sorpresa o duda.</descrip>
+      </termEntry>
+      <termEntry id="term_eaweikukakou">
+        <langSet xml:lang="ja"><tig><term>エアウェイク加工</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>función de caminata ligera</term></tig></langSet>
+        <descrip>Del inglés 'Air-Walk'. Habilidad o encantamiento de armadura.</descrip>
       </termEntry>
       <termEntry id="term_ei">
         <langSet xml:lang="ja"><tig><term>えい</term></tig></langSet>
@@ -144,6 +159,11 @@
         <langSet xml:lang="es"><tig><term>emm</term></tig></langSet>
         <descrip>Interjección usada para pensar o dudar antes de hablar.</descrip>
       </termEntry>
+      <termEntry id="term_euryale">
+        <langSet xml:lang="ja"><tig><term>エウリュアレ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>Euryale</term></tig></langSet>
+        <descrip>Nombre propio, probablemente de un personaje o lugar.</descrip>
+      </termEntry>
       <termEntry id="term_eushuare">
         <langSet xml:lang="ja"><tig><term>エウシュアレ</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>Eushuale</term></tig></langSet>
@@ -164,6 +184,11 @@
         <langSet xml:lang="es"><tig><term>ujum</term></tig></langSet>
         <descrip>Sonido de asentimiento o reflexión.</descrip>
         <note from="translator">Sonido al asentir o pensar.</note>
+      </termEntry>
+      <termEntry id="term_furupureetomeiru">
+        <langSet xml:lang="ja"><tig><term>フルプレートメイル</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>armadura de placas completa</term></tig></langSet>
+        <descrip>Del inglés 'full plate mail'. Tipo de armadura pesada.</descrip>
       </termEntry>
       <termEntry id="term_gakuin">
         <langSet xml:lang="ja"><tig><term>学院</term></tig></langSet>
@@ -228,6 +253,11 @@
         <langSet xml:lang="ja"><tig><term>平和</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>paz</term></tig></langSet>
         <descrip>Sustantivo que significa 'paz'.</descrip>
+      </termEntry>
+      <termEntry id="term_heya">
+        <langSet xml:lang="ja"><tig><term>部屋</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>habitación</term></tig></langSet>
+        <descrip>Sustantivo para 'habitación' o 'cuarto'.</descrip>
       </termEntry>
       <termEntry id="term_hiiru_ganyaku">
         <langSet xml:lang="ja"><tig><term>ヒール丸薬</term></tig></langSet>
@@ -327,6 +357,11 @@
         <langSet xml:lang="es"><tig><term>encantamiento</term></tig></langSet>
         <descrip>Un hechizo, conjuro o encantamiento mágico.</descrip>
       </termEntry>
+      <termEntry id="term_kaifukuyaku">
+        <langSet xml:lang="ja"><tig><term>回復薬</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>medicina de recuperación</term></tig></langSet>
+        <descrip>Poción o medicina que restaura la salud.</descrip>
+      </termEntry>
       <termEntry id="term_kami">
         <langSet xml:lang="ja"><tig><term>髪</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>cabello</term></tig></langSet>
@@ -388,6 +423,11 @@
         <langSet xml:lang="es"><tig><term>este/esta</term></tig></langSet>
         <descrip>Adjetivo demostrativo para algo cercano al hablante.</descrip>
       </termEntry>
+      <termEntry id="term_kouka">
+        <langSet xml:lang="ja"><tig><term>効果</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>efecto</term></tig></langSet>
+        <descrip>Sustantivo para 'efecto' o 'resultado', a menudo en el contexto de habilidades o medicinas.</descrip>
+      </termEntry>
       <termEntry id="term_koumori">
         <langSet xml:lang="ja"><tig><term>蝙蝠</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>murciélago</term></tig></langSet>
@@ -439,6 +479,11 @@
         <langSet xml:lang="es"><tig><term>magia</term></tig></langSet>
         <descrip>Sustantivo para 'magia', 'hechicería'.</descrip>
       </termEntry>
+      <termEntry id="term_mahoukouka">
+        <langSet xml:lang="ja"><tig><term>魔法効果</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>efecto mágico</term></tig></langSet>
+        <descrip>El efecto producido por la magia.</descrip>
+      </termEntry>
       <termEntry id="term_mahoutsukai">
         <langSet xml:lang="ja"><tig><term>魔法使い</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>maga</term></tig></langSet>
@@ -450,6 +495,11 @@
         <langSet xml:lang="es"><tig><term>monstruo</term></tig></langSet>
         <descrip>Literalmente: cosa demoníaca. Se refiere a monstruos o criaturas mágicas malignas.</descrip>
         <note from="translator">A veces traducido como "demonio" según el contexto.</note>
+      </termEntry>
+      <termEntry id="term_manga">
+        <langSet xml:lang="ja"><tig><term>漫画</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>manga</term></tig></langSet>
+        <descrip>Cómic de origen japonés.</descrip>
       </termEntry>
       <termEntry id="term_maou">
         <langSet xml:lang="ja"><tig><term>魔王</term></tig></langSet>
@@ -661,6 +711,11 @@
         <langSet xml:lang="es"><tig><term>novela ligera</term></tig></langSet>
         <descrip>Del inglés 'light novel'. Novelas japonesas dirigidas a un público joven.</descrip>
       </termEntry>
+      <termEntry id="term_reberu">
+        <langSet xml:lang="ja"><tig><term>レベル</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>nivel</term></tig></langSet>
+        <descrip>Del inglés 'level'. Nivel de un personaje o habilidad en un juego.</descrip>
+      </termEntry>
       <termEntry id="term_retishia">
         <langSet xml:lang="ja"><tig><term>レティシア</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>Leticia</term></tig></langSet>
@@ -670,6 +725,11 @@
         <langSet xml:lang="ja"><tig><term>理</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>principio</term></tig></langSet>
         <descrip>Razón, principio o lógica, a menudo en un sentido cósmico o natural.</descrip>
+      </termEntry>
+      <termEntry id="term_ryoushin">
+        <langSet xml:lang="ja"><tig><term>両親</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>padres</term></tig></langSet>
+        <descrip>Término para referirse a ambos padres (madre y padre).</descrip>
       </termEntry>
       <termEntry id="term_ryoushitsu">
         <langSet xml:lang="ja"><tig><term>良質</term></tig></langSet>
@@ -700,6 +760,11 @@
         <langSet xml:lang="ja"><tig><term>史</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>historia</term></tig></langSet>
         <descrip>Sustantivo para 'historia' o 'crónica'.</descrip>
+      </termEntry>
+      <termEntry id="term_shikashi">
+        <langSet xml:lang="ja"><tig><term>しかし</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>pero</term></tig></langSet>
+        <descrip>Conjunción formal que significa 'sin embargo' o 'pero'.</descrip>
       </termEntry>
       <termEntry id="term_shinzou">
         <langSet xml:lang="ja"><tig><term>心臓</term></tig></langSet>
@@ -732,6 +797,11 @@
         <langSet xml:lang="es"><tig><term>colección</term></tig></langSet>
         <descrip>Sustantivo para 'colección' o 'recopilación'.</descrip>
       </termEntry>
+      <termEntry id="term_sodanoka">
+        <langSet xml:lang="ja"><tig><term>そうなのか</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>¿es así?</term></tig></langSet>
+        <descrip>Expresión interrogativa para confirmar si algo es cierto.</descrip>
+      </termEntry>
       <termEntry id="term_soudana">
         <langSet xml:lang="ja"><tig><term>そうだな</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>así es</term></tig></langSet>
@@ -747,20 +817,30 @@
         <langSet xml:lang="es"><tig><term>ahora que lo pienso,</term></tig></langSet>
         <descrip>Variante informal de 'souieba'.</descrip>
       </termEntry>
-      <termEntry s_id="term_soredewa">
-        <langSet xml:lang="ja"><tig><term>それでは</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>hasta entonces</term></tig></langSet>
-        <descrip>Expresión formal para concluir o pasar a la siguiente acción, 'entonces', 'en ese caso'.</descrip>
+      <termEntry id="term_sorede">
+        <langSet xml:lang="ja"><tig><term>それで</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>entonces</term></tig></langSet>
+        <descrip>Conjunción para continuar una idea, 'y entonces...', 'así que...'.</descrip>
       </termEntry>
       <termEntry id="term_soredeite">
         <langSet xml:lang="ja"><tig><term>それでいて</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>aun así</term></tig></langSet>
         <descrip>Conjunción que significa 'y sin embargo', 'a pesar de eso'.</descrip>
       </termEntry>
+      <termEntry id="term_soredewa">
+        <langSet xml:lang="ja"><tig><term>それでは</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>hasta entonces</term></tig></langSet>
+        <descrip>Expresión formal para concluir o pasar a la siguiente acción, 'entonces', 'en ese caso'.</descrip>
+      </termEntry>
       <termEntry id="term_sukou">
         <langSet xml:lang="ja"><tig><term>救う</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>salvar</term></tig></langSet>
         <descrip>Verbo para 'salvar' o 'rescatar'.</descrip>
+      </termEntry>
+      <termEntry id="term_sumi">
+        <langSet xml:lang="ja"><tig><term>隅</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>esquina</term></tig></langSet>
+        <descrip>Sustantivo para 'esquina' o 'rincón'.</descrip>
       </termEntry>
       <termEntry id="term_suraimu">
         <langSet xml:lang="ja"><tig><term>スライム</term></tig></langSet>
@@ -771,11 +851,6 @@
         <langSet xml:lang="ja"><tig><term>すると</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>luego</term></tig></langSet>
         <descrip>Conjunción que indica una consecuencia o un suceso posterior, 'entonces', 'y entonces'.</descrip>
-      </termEntry>
-      <termEntry id="term_sumi">
-        <langSet xml:lang="ja"><tig><term>隅</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>esquina</term></tig></langSet>
-        <descrip>Sustantivo para 'esquina' o 'rincón'.</descrip>
       </termEntry>
       <termEntry id="term_tabi">
         <langSet xml:lang="ja"><tig><term>旅</term></tig></langSet>
@@ -827,6 +902,11 @@
         <langSet xml:lang="ja"><tig><term>ったく</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>caray</term></tig></langSet>
         <descrip>Abreviación de 'mattaku'. Expresión de exasperación, 'cielos', 'caray'.</descrip>
+      </termEntry>
+      <termEntry id="term_uumu">
+        <langSet xml:lang="ja"><tig><term>うーむ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>umm</term></tig></langSet>
+        <descrip>Interjección que denota pensamiento profundo o duda.</descrip>
       </termEntry>
       <termEntry id="term_wakatta">
         <langSet xml:lang="ja"><tig><term>分かった</term></tig></langSet>
@@ -894,6 +974,16 @@
         <descrip>Onomatopeya para un bostezo.</descrip>
         <note from="translator">Alternativa: *bostezo*.</note>
       </termEntry>
+      <termEntry id="onomatopoeia_fufu">
+        <langSet xml:lang="ja"><tig><term>ふふ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>juju</term></tig></langSet>
+        <descrip>Onomatopeya para una risa ligera, contenida o femenina.</descrip>
+      </termEntry>
+      <termEntry id="onomatopoeia_gahaha">
+        <langSet xml:lang="ja"><tig><term>ガハハ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>jajaja</term></tig></langSet>
+        <descrip>Onomatopeya que representa una risa fuerte y masculina.</descrip>
+      </termEntry>
       <termEntry id="onomatopoeia_gashi">
         <langSet xml:lang="ja"><tig><term>ガシ</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>clink</term></tig></langSet>
@@ -926,6 +1016,11 @@
         <langSet xml:lang="es"><tig><term>tintineo</term></tig></langSet>
         <descrip>Onomatopeya de un sonido de alerta o de tener una idea brillante.</descrip>
         <note from="translator">Sonido al tener una idea. Alternativa: *tintineo*.</note>
+      </termEntry>
+      <termEntry id="onomatopoeia_sarasara">
+        <langSet xml:lang="ja"><tig><term>サラサラ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>grano a grano</term></tig></langSet>
+        <descrip>Onomatopeya para el sonido de algo fluyendo suavemente, como arena o un líquido.</descrip>
       </termEntry>
       <termEntry id="onomatopoeia_zorozoro">
         <langSet xml:lang="ja"><tig><term>ゾロゾロ</term></tig></langSet>
@@ -998,6 +1093,11 @@
         <descrip>Partícula que significa "y", para enumerar ejemplos no exhaustivos.</descrip>
         <langSet xml:lang="ja"><tig><term>や</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>y / etc.</term></tig></langSet>
+      </termEntry>
+      <termEntry id="quality_futsuu">
+        <langSet xml:lang="ja"><tig><term>普通</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>normal</term></tig></langSet>
+        <descrip>Calidad de un objeto: normal, común.</descrip>
       </termEntry>
       <termEntry id="quality_warui">
         <descrip>Calidad de un objeto: mala.</descrip>
