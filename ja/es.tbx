@@ -679,7 +679,7 @@
       <termEntry id="term_sama">
         <langSet xml:lang="ja"><tig><term>様</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>parece</term></tig></langSet>
-        <descrip>Sufijo honorífico de máximo respeto. También puede significar 'apariencia' o 'estado'.</descrip>
+        <descrip>Sufijo honorífico de máximo respeto, superior a '-san'. Se usa para deidades, realeza o clientes. A menudo se deja sin traducir o se adapta como 'señor/a', 'lord', 'lady'. También puede significar 'apariencia' o 'estado'.</descrip>
       </termEntry>
       <termEntry id="term_sate">
         <langSet xml:lang="ja"><tig><term>さて</term></tig></langSet>
