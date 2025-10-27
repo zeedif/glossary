@@ -146,17 +146,17 @@
       </termEntry>
       <termEntry id="term_eushuare">
         <langSet xml:lang="ja"><tig><term>エウシュアレ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>eushuale</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>Eushuale</term></tig></langSet>
         <descrip>Nombre de la diosa y del mundo.</descrip>
       </termEntry>
       <termEntry id="term_fontiiru">
         <langSet xml:lang="ja"><tig><term>フォンティーユ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>fontille</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>Fontille</term></tig></langSet>
         <descrip>Nombre de un país.</descrip>
       </termEntry>
       <termEntry id="term_furei">
         <langSet xml:lang="ja"><tig><term>フレイ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>frey</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>Frey</term></tig></langSet>
         <descrip>Nombre de la cazadora compañera del héroe.</descrip>
       </termEntry>
       <termEntry id="term_fumu">
@@ -458,12 +458,12 @@
       </termEntry>
       <termEntry id="term_maria">
         <langSet xml:lang="ja"><tig><term>マリア</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>maría</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>María</term></tig></langSet>
         <descrip>Nombre propio femenino 'María'.</descrip>
       </termEntry>
       <termEntry id="term_mariaberu">
         <langSet xml:lang="ja"><tig><term>マリアベル</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>mariabelle</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>Mariabelle</term></tig></langSet>
         <descrip>Nombre propio femenino 'Mariabelle'.</descrip>
       </termEntry>
       <termEntry id="term_mazoku">
@@ -479,7 +479,7 @@
       </termEntry>
       <termEntry id="term_merutia">
         <langSet xml:lang="ja"><tig><term>メルティア</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>meltia</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>Meltia</term></tig></langSet>
         <descrip>Nombre propio femenino 'Meltia'.</descrip>
       </termEntry>
       <termEntry id="term_mesu">
@@ -663,7 +663,7 @@
       </termEntry>
       <termEntry id="term_retishia">
         <langSet xml:lang="ja"><tig><term>レティシア</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>leticia</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>Leticia</term></tig></langSet>
         <descrip>Nombre propio femenino 'Leticia'.</descrip>
       </termEntry>
       <termEntry id="term_ri">
