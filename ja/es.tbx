@@ -10,494 +10,902 @@
   </martifHeader>
   <text>
     <body>
-      <termEntry id="term_アーマー">
-        <langSet xml:lang="ja"><tig><term>アーマー</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>armadura</term></tig></langSet>
+    <termEntry id="term_aa">
+        <langSet xml:lang="ja"><tig><term>ああ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>aah</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_アニメ">
-        <langSet xml:lang="ja"><tig><term>アニメ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>anime</term></tig></langSet>
+      <termEntry id="term_aero">
+        <langSet xml:lang="ja"><tig><term>アエロー</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>aerohierba</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_イベント">
-        <langSet xml:lang="ja"><tig><term>イベント</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>evento</term></tig></langSet>
+      <termEntry id="term_ai">
+        <langSet xml:lang="ja"><tig><term>愛</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>amor</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_エウシュアレ">
-        <langSet xml:lang="ja"><tig><term>エウシュアレ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>Eushuale</term></tig></langSet>
-        <descrip>Nombre de la diosa y del mundo.</descrip>
-      </termEntry>
-      <termEntry id="term_エルフ">
-        <langSet xml:lang="ja"><tig><term>エルフ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>elfo</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_オタク">
-        <langSet xml:lang="ja"><tig><term>オタク</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>otaku</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_カウンター">
-        <langSet xml:lang="ja"><tig><term>カウンター</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>mostrador</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_ゲーム">
-        <langSet xml:lang="ja"><tig><term>ゲーム</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>juego</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_ゴブリン">
-        <langSet xml:lang="ja"><tig><term>ゴブリン</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>duende</term></tig></langSet>
-        <note from="translator">También se usa "goblin" directamente.</note>
-      </termEntry>
-      <termEntry id="term_スライム">
-        <langSet xml:lang="ja"><tig><term>スライム</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>limo</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_ブラックウーズ">
-        <langSet xml:lang="ja"><tig><term>ブラックウーズ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>Black Ooze</term></tig></langSet>
-        <note from="translator">Alternativa: limo oscuro.</note>
-      </termEntry>
-      <termEntry id="term_フォンティーユ">
-        <langSet xml:lang="ja"><tig><term>フォンティーユ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>Fontille</term></tig></langSet>
-        <descrip>Nombre de un país.</descrip>
-      </termEntry>
-      <termEntry id="term_フレイ">
-        <langSet xml:lang="ja"><tig><term>フレイ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>Frey</term></tig></langSet>
-        <descrip>Nombre de la cazadora compañera del héroe.</descrip>
-      </termEntry>
-      <termEntry id="term_マリア">
-        <langSet xml:lang="ja"><tig><term>マリア</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>María</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_マリアベル">
-        <langSet xml:lang="ja"><tig><term>マリアベル</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>Mariabelle</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_ミスリル">
-        <langSet xml:lang="ja"><tig><term>ミスリル</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>mithril</term></tig></langSet>
-        <note from="translator">Alternativa en el texto: plata mágica.</note>
-      </termEntry>
-      <termEntry id="term_メルティア">
-        <langSet xml:lang="ja"><tig><term>メルティア</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>Meltia</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_ライトノベル">
-        <langSet xml:lang="ja"><tig><term>ライトノベル</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>novela ligera</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_レティシア">
-        <langSet xml:lang="ja"><tig><term>レティシア</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>Leticia</term></tig></langSet>
-      </termEntry>
-      <termEntry id="onomatopoeia_ぐぬ">
-        <langSet xml:lang="ja"><tig><term>ぐぬ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>Ujum…</term></tig></langSet>
-        <descrip>Onomatopeya que expresa molestia o frustración contenida.</descrip>
-      </termEntry>
-      <termEntry id="onomatopoeia_ふわぁ">
-        <langSet xml:lang="ja"><tig><term>ふわぁ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>*Bostezo*</term></tig></langSet>
-        <descrip>Onomatopeya para un bostezo.</descrip>
-      </termEntry>
-      <termEntry id="onomatopoeia_むぅ">
-        <langSet xml:lang="ja"><tig><term>むぅ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>Hmuh</term></tig></langSet>
-        <descrip>Onomatopeya para expresar descontento o estar pensativo, inflando las mejillas.</descrip>
-      </termEntry>
-      <termEntry id="onomatopoeia_ん">
-        <langSet xml:lang="ja"><tig><term>ん？</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>¿Uh?</term></tig></langSet>
-        <descrip>Sonido de duda o al notar algo.</descrip>
-      </termEntry>
-      <termEntry id="onomatopoeia_ズズ">
-        <langSet xml:lang="ja"><tig><term>ズズ</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>*slup*</term></tig></langSet>
-        <descrip>Onomatopeya para el sonido de algo pegajoso moviéndose (limo) o de un sorbo.</descrip>
-      </termEntry>
-      <termEntry id="term_亜人">
+      <termEntry id="term_ajin">
         <langSet xml:lang="ja"><tig><term>亜人</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>semihumano</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_俺">
-        <langSet xml:lang="ja"><tig><term>俺</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>yo</term></tig></langSet>
-        <descrip>Pronombre personal masculino e informal.</descrip>
+      <termEntry id="term_ani">
+        <langSet xml:lang="ja"><tig><term>兄</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>hermano mayor</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_冒険者">
+      <termEntry id="term_anime">
+        <langSet xml:lang="ja"><tig><term>アニメ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>anime</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_aamaa">
+        <langSet xml:lang="ja"><tig><term>アーマー</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>armadura</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_are">
+        <langSet xml:lang="ja"><tig><term>あれ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>eso de ahí</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_arigatou">
+        <langSet xml:lang="ja"><tig><term>ありがとう</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>gracias</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_boukensha">
         <langSet xml:lang="ja"><tig><term>冒険者</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>aventurero</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_十数年">
-        <langSet xml:lang="ja"><tig><term>十数年</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>más de diez años</term></tig></langSet>
-        <note from="translator">Literalmente: diez y varios años.</note>
+      <termEntry id="term_buraddokuriinkooteingu">
+        <langSet xml:lang="ja"><tig><term>ブラッドクリーンコーティング</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>revestimiento removedor de sangre</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_史">
-        <langSet xml:lang="ja"><tig><term>史</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>historia</term></tig></langSet>
+      <termEntry id="term_burakkuuuzu">
+        <langSet xml:lang="ja"><tig><term>ブラックウーズ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>limo oscuro</term></tig></langSet>
+        <note from="translator">Alternativa: black ooze.</note>
       </termEntry>
-      <termEntry id="term_品質">
-        <langSet xml:lang="ja"><tig><term>品質</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>calidad</term></tig></langSet>
+      <termEntry id="term_chishiki">
+        <langSet xml:lang="ja"><tig><term>知識</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>conocimiento</term></tig></langSet>
       </termEntry>
-      <termEntry id="quality_悪い">
-        <langSet xml:lang="ja"><tig><term>悪い</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>mala</term></tig></langSet>
+      <termEntry id="term_daiisshou">
+        <langSet xml:lang="ja"><tig><term>第一章</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>episodio 1</term></tig></langSet>
+        <note from="translator">Alternativa: capítulo 1.</note>
       </termEntry>
-      <termEntry id="term_女神">
-        <langSet xml:lang="ja"><tig><term>女神</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>diosa</term></tig></langSet>
+      <termEntry id="particle_de">
+        <descrip>Partícula que indica lugar de acción, medio o causa.</descrip>
+        <langSet xml:lang="ja"><tig><term>で</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>en / con / y</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_女王">
-        <langSet xml:lang="ja"><tig><term>女王</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>reina</term></tig></langSet>
+      <termEntry id="term_denshou">
+        <langSet xml:lang="ja"><tig><term>伝承</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>efectivamente</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_姉">
-        <langSet xml:lang="ja"><tig><term>姉</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>hermana mayor</term></tig></langSet>
+      <termEntry id="term_doukutsu">
+        <langSet xml:lang="ja"><tig><term>洞窟</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cueva</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_妹">
-        <langSet xml:lang="ja"><tig><term>妹</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>hermana menor</term></tig></langSet>
+      <termEntry id="term_dorei_no_seigen">
+        <langSet xml:lang="ja"><tig><term>奴隷の制限</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>restricción de esclavos</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_娘">
-        <langSet xml:lang="ja"><tig><term>娘</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>hija</term></tig></langSet>
+      <termEntry id="term_e">
+        <langSet xml:lang="ja"><tig><term>え</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>¿eh?</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_学院">
+      <termEntry id="term_ei">
+        <langSet xml:lang="ja"><tig><term>えい</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>¡ei!</term></tig></langSet>
+        <note from="translator">Grito de esfuerzo.</note>
+      </termEntry>
+      <termEntry id="term_etto">
+        <langSet xml:lang="ja"><tig><term>えっと</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>emm</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_erufu">
+        <langSet xml:lang="ja"><tig><term>エルフ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>elfo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_eushuare">
+        <langSet xml:lang="ja"><tig><term>エウシュアレ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>eushuale</term></tig></langSet>
+        <descrip>Nombre de la diosa y del mundo.</descrip>
+      </termEntry>
+      <termEntry id="term_ibento">
+        <langSet xml:lang="ja"><tig><term>イベント</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>evento</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_fontiiru">
+        <langSet xml:lang="ja"><tig><term>フォンティーユ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>fontille</term></tig></langSet>
+        <descrip>Nombre de un país.</descrip>
+      </termEntry>
+      <termEntry id="term_furei">
+        <langSet xml:lang="ja"><tig><term>フレイ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>frey</term></tig></langSet>
+        <descrip>Nombre de la cazadora compañera del héroe.</descrip>
+      </termEntry>
+      <termEntry id="term_fumu">
+        <langSet xml:lang="ja"><tig><term>ふむ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ujum</term></tig></langSet>
+        <note from="translator">Sonido al asentir o pensar.</note>
+      </termEntry>
+      <termEntry id="onomatopoeia_fuwaa">
+        <langSet xml:lang="ja"><tig><term>ふわぁ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>*bostezo*</term></tig></langSet>
+        <descrip>Onomatopeya para un bostezo.</descrip>
+      </termEntry>
+      <termEntry id="particle_ga">
+        <descrip>Partícula que marca el sujeto de una oración.</descrip>
+        <langSet xml:lang="ja"><tig><term>が</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>(marcador de sujeto)</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_gakuin">
         <langSet xml:lang="ja"><tig><term>学院</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>academia</term></tig></langSet>
         <note from="translator">A veces se puede traducir como escuela.</note>
       </termEntry>
-      <termEntry id="term_弟">
-        <langSet xml:lang="ja"><tig><term>弟</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>hermano menor</term></tig></langSet>
+      <termEntry id="term_gakugyou">
+        <langSet xml:lang="ja"><tig><term>学業</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>clases</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_心臓">
-        <langSet xml:lang="ja"><tig><term>心臓</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>corazón</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_扉">
-        <langSet xml:lang="ja"><tig><term>扉</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>puerta</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_手">
-        <langSet xml:lang="ja"><tig><term>手</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>mano</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_指">
-        <langSet xml:lang="ja"><tig><term>指</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>dedo</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_救う">
-        <langSet xml:lang="ja"><tig><term>救う</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>salvar</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_旅">
-        <langSet xml:lang="ja"><tig><term>旅</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>viaje</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_普通">
-        <langSet xml:lang="ja"><tig><term>普通</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>normal</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_時間">
-        <langSet xml:lang="ja"><tig><term>時間</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>tiempo</term></tig></langSet>
-        <note from="translator">También se puede referir a 'hora'.</note>
-      </termEntry>
-      <termEntry id="term_村">
-        <langSet xml:lang="ja"><tig><term>村</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>pueblo</term></tig></langSet>
-        <note from="translator">También aldea.</note>
-      </termEntry>
-      <termEntry id="term_洞窟">
-        <langSet xml:lang="ja"><tig><term>洞窟</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>cueva</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_特性">
-        <langSet xml:lang="ja"><tig><term>特性</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>característica</term></tig></langSet>
-        <note from="translator">Alternativa: habilidad.</note>
-      </termEntry>
-      <termEntry id="term_王">
-        <langSet xml:lang="ja"><tig><term>王</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>gobernante</term></tig></langSet>
-        <descrip>Puede ser rey o reina. La traducción es neutra.</descrip>
-      </termEntry>
-      <termEntry id="term_王族">
-        <langSet xml:lang="ja"><tig><term>王族</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>realeza</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_知識">
-        <langSet xml:lang="ja"><tig><term>知識</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>conocimiento</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_第一章">
-        <langSet xml:lang="ja"><tig><term>第一章</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>Episodio 1</term></tig></langSet>
-        <note from="translator">Traducción literal: Capítulo 1.</note>
-      </termEntry>
-      <termEntry id="term_精霊">
-        <langSet xml:lang="ja"><tig><term>精霊</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>espíritu</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_突然変異">
-        <langSet xml:lang="ja"><tig><term>突然変異</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>mutación</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_良質">
-        <langSet xml:lang="ja"><tig><term>良質</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>buena</term></tig></langSet>
-        <descrip>Calidad de un objeto.</descrip>
-      </termEntry>
-      <termEntry id="term_ lizard">
-        <langSet xml:lang="ja"><tig><term>蜥蜴</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>lagartija</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_蝙蝠">
-        <langSet xml:lang="ja"><tig><term>蝙蝠</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>murciélago</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_親子">
-        <langSet xml:lang="ja"><tig><term>親子</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>madre e hija</term></tig></langSet>
-        <descrip>Literalmente: padre/madre e hijo/a.</descrip>
-      </termEntry>
-      <termEntry id="term_話">
-        <langSet xml:lang="ja"><tig><term>話</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>conversación</term></tig></langSet>
-        <note from="translator">También puede ser 'historia' o 'tema'.</note>
-      </termEntry>
-      <termEntry id="term_銀髪">
-        <langSet xml:lang="ja"><tig><term>銀髪</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>cabello plateado</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_鎧">
-        <langSet xml:lang="ja"><tig><term>鎧</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>armadura</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_間">
-        <langSet xml:lang="ja"><tig><term>間</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>habitación</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_闇">
-        <langSet xml:lang="ja"><tig><term>闇</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>oscuridad</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_雑魚">
-        <langSet xml:lang="ja"><tig><term>雑魚</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>esbirro</term></tig></langSet>
-        <descrip>Enemigo débil, 'minion'.</descrip>
-      </termEntry>
-      <termEntry id="term_雑誌">
-        <langSet xml:lang="ja"><tig><term>雑誌</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>revista</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_集">
-        <langSet xml:lang="ja"><tig><term>集</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>colección</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_雌">
-        <langSet xml:lang="ja"><tig><term>雌</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>hembra</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_雄">
-        <langSet xml:lang="ja"><tig><term>雄</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>macho</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_䨐">
-        <langSet xml:lang="ja"><tig><term>䨐</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>niebla</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_静か">
-        <langSet xml:lang="ja"><tig><term>静か</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>tranquilo</term></tig></langSet>
-        <note from="translator">También: silencioso.</note>
-      </termEntry>
-      <termEntry id="term_顔">
+      <termEntry id="term_kao">
         <langSet xml:lang="ja"><tig><term>顔</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>rostro</term></tig></langSet>
         <note from="translator">También: cara.</note>
       </termEntry>
-      <termEntry id="term_騎士">
-        <langSet xml:lang="ja"><tig><term>騎士</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>caballero</term></tig></langSet>
+      <termEntry id="onomatopoeia_gashi">
+        <langSet xml:lang="ja"><tig><term>ガシ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>*clink*</term></tig></langSet>
+        <note from="translator">Sonido de monedas o algo metálico.</note>
       </termEntry>
-      <termEntry id="term_髪">
+      <termEntry id="term_geemu">
+        <langSet xml:lang="ja"><tig><term>ゲーム</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>juego</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_goburin">
+        <langSet xml:lang="ja"><tig><term>ゴブリン</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>duende</term></tig></langSet>
+        <note from="translator">También se usa "goblin" directamente.</note>
+      </termEntry>
+      <termEntry id="onomatopoeia_gunu">
+        <langSet xml:lang="ja"><tig><term>ぐぬ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ujum…</term></tig></langSet>
+        <descrip>Onomatopeya que expresa molestia o frustración contenida.</descrip>
+      </termEntry>
+      <termEntry id="particle_wa">
+        <descrip>Partícula que marca el tema principal de la oración.</descrip>
+        <langSet xml:lang="ja"><tig><term>は</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>(marcador de tema)</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_haa">
+        <langSet xml:lang="ja"><tig><term>はぁ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>jah</term></tig></langSet>
+        <note from="translator">Suspiro.</note>
+      </termEntry>
+      <termEntry id="term_haha">
+        <langSet xml:lang="ja"><tig><term>母</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>madre</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_hai">
+        <langSet xml:lang="ja"><tig><term>はい</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sí</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_hanashi">
+        <langSet xml:lang="ja"><tig><term>話</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>conversación</term></tig></langSet>
+        <note from="translator">También puede ser 'historia' o 'tema'. Como verbo (話す): hablar.</note>
+      </termEntry>
+      <verb id="verb_hanasu_inf">
+        <langSet xml:lang="ja"><tig><term>話す</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>hablar</term></tig></langSet>
+      </verb>
+      <termEntry id="particle_e">
+        <descrip>Partícula que indica dirección.</descrip>
+        <langSet xml:lang="ja"><tig><term>へ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>hacia / a</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_hee">
+        <langSet xml:lang="ja"><tig><term>へー</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>em...</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_heiwa">
+        <langSet xml:lang="ja"><tig><term>平和</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>paz</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_heion">
+        <langSet xml:lang="ja"><tig><term>平穏</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>pacífico</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_hiiru_ganyaku">
+        <langSet xml:lang="ja"><tig><term>ヒール丸薬</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>píldora sanadora</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_hinshitsu">
+        <langSet xml:lang="ja"><tig><term>品質</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>calidad</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_hitomi">
+        <langSet xml:lang="ja"><tig><term>瞳</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ojos</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_hou">
+        <langSet xml:lang="ja"><tig><term>ほう</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>wow</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_hontou_wa">
+        <langSet xml:lang="ja"><tig><term>本当は</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>honestamente</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_ie">
+        <langSet xml:lang="ja"><tig><term>家</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>casa</term></tig></langSet>
+        <note from="translator">También 'hogar'.</note>
+      </termEntry>
+      <verb id="verb_ikiru_inf">
+        <langSet xml:lang="ja"><tig><term>生きる</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>vivir</term></tig></langSet>
+      </verb>
+      <verb id="verb_iku_inf">
+        <langSet xml:lang="ja"><tig><term>行く</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ir</term></tig></langSet>
+      </verb>
+      <termEntry id="term_imouto">
+        <langSet xml:lang="ja"><tig><term>妹</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>hermana menor</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_isekai">
+        <langSet xml:lang="ja"><tig><term>異世界</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>otro mundo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_iya">
+        <langSet xml:lang="ja"><tig><term>いや</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>no</term></tig></langSet>
+      </termEntry>
+      <verb id="verb_iu_inf">
+        <langSet xml:lang="ja"><tig><term>言う</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>decir</term></tig></langSet>
+      </verb>
+      <termEntry id="term_jaana">
+        <langSet xml:lang="ja"><tig><term>じゃあな</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>nos vemos</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_jijuu">
+        <langSet xml:lang="ja"><tig><term>侍従</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sirviente</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_jikan">
+        <langSet xml:lang="ja"><tig><term>時間</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>tiempo</term></tig></langSet>
+        <note from="translator">También se puede referir a 'hora'.</note>
+      </termEntry>
+      <termEntry id="term_jou備薬">
+        <langSet xml:lang="ja"><tig><term>常備薬</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>medicamento regular</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_joou">
+        <langSet xml:lang="ja"><tig><term>女王</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reina</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_juusuunen">
+        <langSet xml:lang="ja"><tig><term>十数年</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>más de diez años</term></tig></langSet>
+        <note from="translator">Literalmente: diez y varios años.</note>
+      </termEntry>
+      <termEntry id="term_jumon">
+        <langSet xml:lang="ja"><tig><term>呪文</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>encantamiento</term></tig></langSet>
+      </termEntry>
+      <termEntry id="particle_ka">
+        <descrip>Partícula que indica una pregunta o una opción.</descrip>
+        <langSet xml:lang="ja"><tig><term>か</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>?</term></tig></langSet>
+        <note from="translator">Al final de una oración la convierte en pregunta.</note>
+      </termEntry>
+      <termEntry id="term_kami">
         <langSet xml:lang="ja"><tig><term>髪</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>cabello</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_魔導女王">
-        <langSet xml:lang="ja"><tig><term>魔導女王</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>Reina Mágica</term></tig></langSet>
+      <termEntry id="term_kao">
+        <langSet xml:lang="ja"><tig><term>顔</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>rostro</term></tig></langSet>
+        <note from="translator">También: cara.</note>
       </termEntry>
-      <termEntry id="term_魔導師">
+      <termEntry id="particle_kara">
+        <descrip>Partícula que indica el punto de partida (desde).</descrip>
+        <langSet xml:lang="ja"><tig><term>から</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>desde</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_kariudo">
+        <langSet xml:lang="ja"><tig><term>狩人</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cazadora</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_kauntaa">
+        <langSet xml:lang="ja"><tig><term>カウンター</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>mostrador</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_kedo">
+        <langSet xml:lang="ja"><tig><term>けど</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>pero</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_ken">
+        <langSet xml:lang="ja"><tig><term>剣</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>espada</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_kiri">
+        <langSet xml:lang="ja"><tig><term>䨐</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>niebla</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_kishi">
+        <langSet xml:lang="ja"><tig><term>騎士</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>caballero</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_koe">
+        <langSet xml:lang="ja"><tig><term>声</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>voz</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_kokoro">
+        <langSet xml:lang="ja"><tig><term>心</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>corazón</term></tig></langSet>
+        <descrip>En sentido figurado (mente, espíritu).</descrip>
+      </termEntry>
+      <termEntry id="term_kokkaku_mushi">
+        <langSet xml:lang="ja"><tig><term>甲殻虫</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>insecto</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_kono">
+        <langSet xml:lang="ja"><tig><term>この</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>este/esta</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_koumori">
+        <langSet xml:lang="ja"><tig><term>蝙蝠</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>murciélago</term></tig></langSet>
+      </termEntry>
+      <verb id="verb_kuru_inf">
+        <langSet xml:lang="ja"><tig><term>来る</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>venir</term></tig></langSet>
+      </verb>
+      <termEntry id="term_kurokami">
+        <langSet xml:lang="ja"><tig><term>黒髪</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cabello negro</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_kusarikatabira">
+        <langSet xml:lang="ja"><tig><term>くさりかたびら</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cota de malla</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_maa">
+        <langSet xml:lang="ja"><tig><term>まあ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>bueno</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_madoushi">
         <langSet xml:lang="ja"><tig><term>魔導師</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>maga</term></tig></langSet>
         <descrip>El género cambia según el contexto (mago/maga).</descrip>
       </termEntry>
-      <termEntry id="term_魔族">
+      <termEntry id="term_madou_joou">
+        <langSet xml:lang="ja"><tig><term>魔導女王</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reina mágica</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_mahou">
+        <langSet xml:lang="ja"><tig><term>魔法</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>magia</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_mahoutsukai">
+        <langSet xml:lang="ja"><tig><term>魔法使い</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>maga</term></tig></langSet>
+        <note from="translator">También: mago, hechicero, brujo.</note>
+      </termEntry>
+      <termEntry id="term_mahi_doku">
+        <langSet xml:lang="ja"><tig><term>麻痺毒</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>veneno paralizante</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_maou">
+        <langSet xml:lang="ja"><tig><term>魔王</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>rey demonio</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_mazoku">
         <langSet xml:lang="ja"><tig><term>魔族</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>demonio</term></tig></langSet>
         <descrip>Tribu o raza de demonios (demonkind).</descrip>
         <note from="translator">En la traducción provista, se traduce igual que 魔物.</note>
       </termEntry>
-      <termEntry id="term_魔法">
-        <langSet xml:lang="ja"><tig><term>魔法</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>magia</term></tig></langSet>
-      </termEntry>
-      <termEntry id="term_魔法使い">
-        <langSet xml:lang="ja"><tig><term>魔法使い</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>maga</term></tig></langSet>
-        <note from="translator">También: mago, hechicero, brujo.</note>
-      </termEntry>
-      <termEntry id="term_魔物">
+      <termEntry id="term_mamono">
         <langSet xml:lang="ja"><tig><term>魔物</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>demonio</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>monstruo</term></tig></langSet>
         <descrip>Literalmente: monstruo o criatura demoníaca.</descrip>
-        <note from="translator">Alternativa: monstruo.</note>
+        <note from="translator">A veces traducido como "demonio" según el contexto.</note>
       </termEntry>
-      <termEntry id="term_魔王">
-        <langSet xml:lang="ja"><tig><term>魔王</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>Rey Demonio</term></tig></langSet>
+      <termEntry id="term_ma">
+        <langSet xml:lang="ja"><tig><term>間</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>habitación</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_麻痺毒">
-        <langSet xml:lang="ja"><tig><term>麻痺毒</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>veneno paralizante</term></tig></langSet>
+      <termEntry id="term_maria">
+        <langSet xml:lang="ja"><tig><term>マリア</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>maría</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_黒髪">
-        <langSet xml:lang="ja"><tig><term>黒髪</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>cabello negro</term></tig></langSet>
+      <termEntry id="term_mariaberu">
+        <langSet xml:lang="ja"><tig><term>マリアベル</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>mariabelle</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_お父さま">
-        <langSet xml:lang="ja"><tig><term>お父さま</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>padre</term></tig></langSet>
-        <descrip>Forma honorífica y formal para 'padre'.</descrip>
+      <termEntry id="term_megami">
+        <langSet xml:lang="ja"><tig><term>女神</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>diosa</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_お母さま">
-        <langSet xml:lang="ja"><tig><term>お母さま</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>madre</term></tig></langSet>
-        <descrip>Forma honorífica y formal para 'madre'.</descrip>
+      <termEntry id="term_merutia">
+        <langSet xml:lang="ja"><tig><term>メルティア</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>meltia</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_世界">
-        <langSet xml:lang="ja"><tig><term>世界</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>mundo</term></tig></langSet>
+      <termEntry id="term_mesu">
+        <langSet xml:lang="ja"><tig><term>雌</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>hembra</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_人間">
-        <langSet xml:lang="ja"><tig><term>人間</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>humano</term></tig></langSet>
+      <verb id="verb_miru_inf">
+        <langSet xml:lang="ja"><tig><term>見る</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ver</term></tig></langSet>
+      </verb>
+      <termEntry id="term_misuriru">
+        <langSet xml:lang="ja"><tig><term>ミスリル</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>mithril</term></tig></langSet>
+        <note from="translator">Alternativa en el texto: plata mágica.</note>
       </termEntry>
-      <termEntry id="term_兄">
-        <langSet xml:lang="ja"><tig><term>兄</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>hermano mayor</term></tig></langSet>
+      <termEntry id="particle_mo">
+        <descrip>Partícula que significa "también" o "además".</descrip>
+        <langSet xml:lang="ja"><tig><term>も</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>también</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_勇者">
-        <langSet xml:lang="ja"><tig><term>勇者</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>héroe</term></tig></langSet>
+      <termEntry id="term_mori">
+        <langSet xml:lang="ja"><tig><term>森</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>bosque</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_国">
-        <langSet xml:lang="ja"><tig><term>国</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>país</term></tig></langSet>
-        <note from="translator">También puede ser 'reino'.</note>
+      <termEntry id="onomatopoeia_muu">
+        <langSet xml:lang="ja"><tig><term>むぅ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>hmuh</term></tig></langSet>
+        <descrip>Onomatopeya para expresar descontento o estar pensativo, inflando las mejillas.</descrip>
       </termEntry>
-      <termEntry id="term_声">
-        <langSet xml:lang="ja"><tig><term>声</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>voz</term></tig></langSet>
+      <termEntry id="term_mura">
+        <langSet xml:lang="ja"><tig><term>村</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>pueblo</term></tig></langSet>
+        <note from="translator">También aldea.</note>
       </termEntry>
-      <termEntry id="term_夢">
-        <langSet xml:lang="ja"><tig><term>夢</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>sueño</term></tig></langSet>
+      <termEntry id="term_mushi">
+        <langSet xml:lang="ja"><tig><term>虫</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>insecto</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_女">
-        <langSet xml:lang="ja"><tig><term>女</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>mujer</term></tig></langSet>
+      <termEntry id="term_musume">
+        <langSet xml:lang="ja"><tig><term>娘</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>hija</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_女性">
-        <langSet xml:lang="ja"><tig><term>女性</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>femenina</term></tig></langSet>
+      <termEntry id="term_na">
+        <langSet xml:lang="ja"><tig><term>な</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>y,</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_家">
-        <langSet xml:lang="ja"><tig><term>家</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>casa</term></tig></langSet>
-        <note from="translator">También 'hogar'.</note>
+      <termEntry id="term_nanda">
+        <langSet xml:lang="ja"><tig><term>なんだ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>qué es</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_平和">
-        <langSet xml:lang="ja"><tig><term>平和</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>paz</term></tig></langSet>
+      <termEntry id="term_nandarou">
+        <langSet xml:lang="ja"><tig><term>なんだろう</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>qué será</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_平穏">
-        <langSet xml:lang="ja"><tig><term>平穏</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>pacífico</term></tig></langSet>
+      <termEntry id="term_nandato">
+        <langSet xml:lang="ja"><tig><term>なんだと</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>¿y qué si lo hago?</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_年">
+      <termEntry id="term_nantonaku">
+        <langSet xml:lang="ja"><tig><term>なんとなく</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>por alguna razón</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_naruhodo">
+        <langSet xml:lang="ja"><tig><term>なるほど</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sin duda</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_nen">
         <langSet xml:lang="ja"><tig><term>年</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>año</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_弟">
+      <termEntry id="particle_ni">
+        <descrip>Partícula que indica ubicación, tiempo o dirección.</descrip>
+        <langSet xml:lang="ja"><tig><term>に</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>en / a / hacia</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_ningen">
+        <langSet xml:lang="ja"><tig><term>人間</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>humano</term></tig></langSet>
+        <note from="translator">También se traduce como "gente".</note>
+      </termEntry>
+      <termEntry id="particle_no">
+        <descrip>Partícula posesiva.</descrip>
+        <langSet xml:lang="ja"><tig><term>の</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>de</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_nouryoku">
+        <langSet xml:lang="ja"><tig><term>能力</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>habilidad</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_nouryoku_kaihou">
+        <langSet xml:lang="ja"><tig><term>能力解放</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>habilidades liberadas</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_nouryoku_mikaihou">
+        <langSet xml:lang="ja"><tig><term>能力未解放</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>habilidades selladas</term></tig></langSet>
+      </termEntry>
+      <termEntry id="onomatopoeia_n">
+        <langSet xml:lang="ja"><tig><term>ん</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>¿uh?</term></tig></langSet>
+        <descrip>Sonido de duda o al notar algo.</descrip>
+      </termEntry>
+      <termEntry id="particle_wo">
+        <descrip>Partícula que marca el objeto directo de un verbo.</descrip>
+        <langSet xml:lang="ja"><tig><term>を</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>(marcador de objeto directo)</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_o">
+        <langSet xml:lang="ja"><tig><term>お</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>oh</term></tig></langSet>
+      </termEntry>
+      <verb id="verb_okiru_inf">
+        <langSet xml:lang="ja"><tig><term>起きる</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>despertar</term></tig></langSet>
+      </verb>
+      <termEntry id="term_omake">
+        <langSet xml:lang="ja"><tig><term>オマケ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>bono</term></tig></langSet>
+      </termEntry>
+      <verb id="verb_omou_inf">
+        <langSet xml:lang="ja"><tig><term>思う</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>pensar</term></tig></langSet>
+      </verb>
+      <termEntry id="term_onaji">
+        <langSet xml:lang="ja"><tig><term>同じ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>mismo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_onna">
+        <langSet xml:lang="ja"><tig><term>女</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>mujer</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_onnen">
+        <langSet xml:lang="ja"><tig><term>怨念</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>rencor</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_onryou">
+        <langSet xml:lang="ja"><tig><term>怨霊</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>espíritu vengativo</term></tig></langSet>
+        <note from="translator">También: espíritu rencoroso.</note>
+      </termEntry>
+      <termEntry id="term_ore">
+        <langSet xml:lang="ja"><tig><term>俺</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>yo</term></tig></langSet>
+        <descrip>Pronombre personal masculino e informal.</descrip>
+      </termEntry>
+      <termEntry id="term_osu">
+        <langSet xml:lang="ja"><tig><term>雄</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>macho</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_otaku">
+        <langSet xml:lang="ja"><tig><term>オタク</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>otaku</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_otouto">
         <langSet xml:lang="ja"><tig><term>弟</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>hermano menor</term></tig></langSet>
       </termEntry>
-      <termEntry id="term_心">
-        <langSet xml:lang="ja"><tig><term>心</term></tig></langSet>
+      <termEntry id="term_otto">
+        <langSet xml:lang="ja"><tig><term>おっと</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ups</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_ou">
+        <langSet xml:lang="ja"><tig><term>王</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>gobernante</term></tig></langSet>
+        <descrip>Puede ser rey o reina. La traducción es neutra.</descrip>
+      </termEntry>
+      <termEntry id="term_ouyo">
+        <langSet xml:lang="ja"><tig><term>おうよ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>¡seguro!</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_ouzoku">
+        <langSet xml:lang="ja"><tig><term>王族</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>realeza</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_oyako">
+        <langSet xml:lang="ja"><tig><term>親子</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>madre e hija</term></tig></langSet>
+        <descrip>Literalmente: padre/madre e hijo/a.</descrip>
+      </termEntry>
+      <termEntry id="onomatopoeia_pera">
+        <langSet xml:lang="ja"><tig><term>ペラ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>*flip*</term></tig></langSet>
+        <note from="translator">Sonido de pasar una página.</note>
+      </termEntry>
+      <termEntry id="onomatopoeia_pikoon">
+        <langSet xml:lang="ja"><tig><term>ピコーン</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>*tintineo*</term></tig></langSet>
+        <note from="translator">Sonido al tener una idea.</note>
+      </termEntry>
+      <termEntry id="term_raitonoberu">
+        <langSet xml:lang="ja"><tig><term>ライトノベル</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>novela ligera</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_retishia">
+        <langSet xml:lang="ja"><tig><term>レティシア</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>leticia</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_ri">
+        <langSet xml:lang="ja"><tig><term>理</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>principio</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_ryoushitsu">
+        <langSet xml:lang="ja"><tig><term>良質</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>buena</term></tig></langSet>
+        <descrip>Calidad de un objeto.</descrip>
+      </termEntry>
+      <termEntry id="term_sama">
+        <langSet xml:lang="ja"><tig><term>様</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>parece</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_sate">
+        <langSet xml:lang="ja"><tig><term>さて</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>bien,</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_seirei">
+        <langSet xml:lang="ja"><tig><term>精霊</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>espíritu</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_sekai">
+        <langSet xml:lang="ja"><tig><term>世界</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>mundo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_shi">
+        <langSet xml:lang="ja"><tig><term>史</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>historia</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_shinzou">
+        <langSet xml:lang="ja"><tig><term>心臓</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>corazón</term></tig></langSet>
-        <descrip>En sentido figurado (mente, espíritu).</descrip>
       </termEntry>
-      <termEntry id="term_愛">
-        <langSet xml:lang="ja"><tig><term>愛</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>amor</term></tig></langSet>
+      <termEntry id="term_shizuka">
+        <langSet xml:lang="ja"><tig><term>静か</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>tranquilo</term></tig></langSet>
+        <note from="translator">También: silencioso.</note>
       </termEntry>
-      <termEntry id="term_我">
+      <termEntry id="term_shoujiki_na_tokoro">
+        <langSet xml:lang="ja"><tig><term>正直な所</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>siendo honesto</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_shoukan">
+        <langSet xml:lang="ja"><tig><term>召喚</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>convocado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_shuu">
+        <langSet xml:lang="ja"><tig><term>集</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>colección</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_shumi">
+        <langSet xml:lang="ja"><tig><term>趣味</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>afición</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_soudana">
+        <langSet xml:lang="ja"><tig><term>そうだな</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>así es</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_souieba">
+        <langSet xml:lang="ja"><tig><term>そういえば</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>por cierto,</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_souiya">
+        <langSet xml:lang="ja"><tig><term>そういや</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ahora que lo pienso,</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_soredewa">
+        <langSet xml:lang="ja"><tig><term>それでは</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>hasta entonces</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_soredeite">
+        <langSet xml:lang="ja"><tig><term>それでいて</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>aun así</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_suraimu">
+        <langSet xml:lang="ja"><tig><term>スライム</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>limo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_suruto">
+        <langSet xml:lang="ja"><tig><term>すると</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>luego</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_sumi">
+        <langSet xml:lang="ja"><tig><term>隅</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>esquina</term></tig></langSet>
+      </termEntry>
+      <verb id="verb_taberu_inf">
+        <langSet xml:lang="ja"><tig><term>食べる</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>comer</term></tig></langSet>
+      </verb>
+      <termEntry id="term_tabi">
+        <langSet xml:lang="ja"><tig><term>旅</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>viaje</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_tashikani">
+        <langSet xml:lang="ja"><tig><term>確かに</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ciertamente</term></tig></langSet>
+      </termEntry>
+      <verb id="verb_taosu_inf">
+        <langSet xml:lang="ja"><tig><term>倒す</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>derrotar</term></tig></langSet>
+      </verb>
+      <termEntry id="term_te">
+        <langSet xml:lang="ja"><tig><term>手</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>mano</term></tig></langSet>
+      </termEntry>
+      <termEntry id="particle_to">
+        <descrip>Partícula que significa "y" para enumerar sustantivos.</descrip>
+        <langSet xml:lang="ja"><tig><term>と</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>y</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_tobira">
+        <langSet xml:lang="ja"><tig><term>扉</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>puerta</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_tokei">
+        <langSet xml:lang="ja"><tig><term>時計</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>reloj</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_tokage">
+        <langSet xml:lang="ja"><tig><term>蜥蜴</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>lagartija</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_tokusei">
+        <langSet xml:lang="ja"><tig><term>特性</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>característica</term></tig></langSet>
+        <note from="translator">A veces traducido como "habilidad".</note>
+      </termEntry>
+      <termEntry id="term_totsuzen_hen'i">
+        <langSet xml:lang="ja"><tig><term>突然変異</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>mutación</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_ttaku">
+        <langSet xml:lang="ja"><tig><term>ったく</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>caray</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_tsumorika">
+        <langSet xml:lang="ja"><tig><term>つもりか</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>intentas</term></tig></langSet>
+      </termEntry>
+      <verb id="verb_umareru_inf">
+        <langSet xml:lang="ja"><tig><term>生まれる</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>nacer</term></tig></langSet>
+      </verb>
+      <termEntry id="term_wakatta">
+        <langSet xml:lang="ja"><tig><term>分かった</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>comprendo</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_wakatteruyo">
+        <langSet xml:lang="ja"><tig><term>分かってるよ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>lo sé</term></tig></langSet>
+      </termEntry>
+      <quality id="quality_warui">
+        <langSet xml:lang="ja"><tig><term>悪い</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>mala</term></tig></langSet>
+      </quality>
+      <termEntry id="term_ware">
         <langSet xml:lang="ja"><tig><term>我</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>yo</term></tig></langSet>
         <descrip>Pronombre personal arcaico o formal.</descrip>
       </termEntry>
-      <termEntry id="verb_倒す_inf">
-        <langSet xml:lang="ja"><tig><term>倒す</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>derrotar</term></tig></langSet>
+      <particle id="particle_ya">
+        <descrip>Partícula que significa "y", para enumerar ejemplos no exhaustivos.</descrip>
+        <langSet xml:lang="ja"><tig><term>や</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>y / etc.</term></tig></langSet>
+      </particle>
+      <termEntry id="term_yappari">
+        <langSet xml:lang="ja"><tig><term>やっぱり</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>después de todo</term></tig></langSet>
       </termEntry>
-      <termEntry id="verb_呼ぶ_inf">
+      <quality id="quality_yayawarui">
+        <langSet xml:lang="ja"><tig><term>やや悪い</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>aceptable</term></tig></langSet>
+        <note from="translator">Literalmente "un poco malo".</note>
+      </quality>
+      <quality id="quality_yayayoi">
+        <langSet xml:lang="ja"><tig><term>やや良い</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>aceptable</term></tig></langSet>
+        <note from="translator">Literalmente "un poco bueno".</note>
+      </quality>
+      <verb id="verb_yobu_inf">
         <langSet xml:lang="ja"><tig><term>呼ぶ</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>llamar</term></tig></langSet>
+      </verb>
+      <termEntry id="term_yoroi">
+        <langSet xml:lang="ja"><tig><term>鎧</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>armadura</term></tig></langSet>
       </termEntry>
-      <termEntry id="verb_思う_inf">
-        <langSet xml:lang="ja"><tig><term>思う</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>pensar</term></tig></langSet>
+      <termEntry id="term_yubi">
+        <langSet xml:lang="ja"><tig><term>指</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>dedo</term></tig></langSet>
       </termEntry>
-      <termEntry id="verb_生きる_inf">
-        <langSet xml:lang="ja"><tig><term>生きる</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>vivir</term></tig></langSet>
+      <termEntry id="term_yugami">
+        <langSet xml:lang="ja"><tig><term>歪み</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>deformación</term></tig></langSet>
       </termEntry>
-      <termEntry id="verb_生まれる_inf">
-        <langSet xml:lang="ja"><tig><term>生まれる</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>nacer</term></tig></langSet>
+      <termEntry id="term_yume">
+        <langSet xml:lang="ja"><tig><term>夢</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sueño</term></tig></langSet>
       </termEntry>
-      <termEntry id="verb_話す_inf">
-        <langSet xml:lang="ja"><tig><term>話す</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>hablar</term></tig></langSet>
+      <termEntry id="term_yuusha">
+        <langSet xml:lang="ja"><tig><term>勇者</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>héroe</term></tig></langSet>
       </termEntry>
-      <termEntry id="verb_食べる_inf">
-        <langSet xml:lang="ja"><tig><term>食べる</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>comer</term></tig></langSet>
+      <termEntry id="term_zako">
+        <langSet xml:lang="ja"><tig><term>雑魚</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>esbirro</term></tig></langSet>
+        <descrip>Enemigo débil, 'minion'.</descrip>
       </termEntry>
-      <termEntry id="verb_見る_inf">
-        <langSet xml:lang="ja"><tig><term>見る</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>ver</term></tig></langSet>
+      <termEntry id="term_zasshi">
+        <langSet xml:lang="ja"><tig><term>雑誌</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>revista</term></tig></langSet>
       </termEntry>
-      <termEntry id="verb_行く_inf">
-        <langSet xml:lang="ja"><tig><term>行く</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>ir</term></tig></langSet>
+      <termEntry id="onomatopoeia_zorozoro">
+        <langSet xml:lang="ja"><tig><term>ゾロゾロ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>en masa</term></tig></langSet>
       </termEntry>
-      <termEntry id="verb_来る_inf">
-        <langSet xml:lang="ja"><tig><term>来る</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>venir</term></tig></langSet>
+      <termEntry id="onomatopoeia_zuzu">
+        <langSet xml:lang="ja"><tig><term>ズズ</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>*slup*</term></tig></langSet>
+        <descrip>Onomatopeya para el sonido de algo pegajoso moviéndose (limo) o de un sorbo.</descrip>
       </termEntry>
-      <termEntry id="verb_起きる_inf">
-        <langSet xml:lang="ja"><tig><term>起きる</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>despertar</term></tig></langSet>
+      <termEntry id="term_bibou">
+        <langSet xml:lang="ja"><tig><term>美貌</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>belleza</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_bishoujo">
+        <langSet xml:lang="ja"><tig><term>美少女</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>niña hermosa</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_ken">
+        <langSet xml:lang="ja"><tig><term>剣</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>espada</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_juujin">
+        <langSet xml:lang="ja"><tig><term>獣人</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>hombres bestia</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_gimpatsu">
+        <langSet xml:lang="ja"><tig><term>銀髪</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cabello plateado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_kuni">
+        <langSet xml:lang="ja"><tig><term>国</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>país</term></tig></langSet>
+        <note from="translator">También puede ser 'reino'.</note>
+      </termEntry>
+      <termEntry id="term_josei">
+        <langSet xml:lang="ja"><tig><term>女性</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>femenina</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_sukou">
+        <langSet xml:lang="ja"><tig><term>救う</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>salvar</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_ane">
+        <langSet xml:lang="ja"><tig><term>姉</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>hermana mayor</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_okaasama">
+        <langSet xml:lang="ja"><tig><term>お母さま</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>madre</term></tig></langSet>
+        <descrip>Forma honorífica y formal para 'madre'.</descrip>
+      </termEntry>
+      <termEntry id="term_otousama">
+        <langSet xml:lang="ja"><tig><term>お父さま</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>padre</term></tig></langSet>
+        <descrip>Forma honorífica y formal para 'padre'.</descrip>
+      </termEntry>
+      <termEntry id="term_yami">
+        <langSet xml:lang="ja"><tig><term>闇</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>oscuridad</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_eiyouzai">
+        <langSet xml:lang="ja"><tig><term>栄養剤</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>suplemento nutricional</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_chiryouyaku">
+        <langSet xml:lang="ja"><tig><term>治療薬</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>poción de recuperación</term></tig></langSet>
       </termEntry>
     </body>
   </text>
