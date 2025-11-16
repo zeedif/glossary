@@ -24,6 +24,18 @@
         <langSet xml:lang="es"><tig><term>un</term></tig></langSet>
         <note from="translator">También: una.</note>
       </termEntry>
+      <termEntry id="term_ability[0]">
+        <descrip>En RR.HH.: Aptitud. En Psicología: Capacidad. En RPG: Atributo.</descrip>
+        <langSet xml:lang="en"><tig><term>ability</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>aptitud</term></tig></langSet>
+        <note from="translator">Alternativas: atributo, capacidad, pericia, habilidad.</note>
+      </termEntry>
+      <termEntry id="term_ability[1]">
+        <descrip>En RR.HH.: Aptitudes. En Psicología: Capacidades. En RPG: Atributos.</descrip>
+        <langSet xml:lang="en"><tig><term>abilities</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>aptitudes</term></tig></langSet>
+        <note from="translator">Alternativas: atributos, capacidades, pericias, habilidades.</note>
+      </termEntry>
       <termEntry id="term_about">
         <langSet xml:lang="en"><tig><term>about</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>sobre</term></tig></langSet>
@@ -853,9 +865,30 @@
         <langSet xml:lang="es"><tig><term>ciego</term></tig></langSet>
         <note from="translator">Femenino/plural: ciega(s), ciegos.</note>
       </termEntry>
+      <termEntry id="term_blinded_adj">
+        <langSet xml:lang="en"><tig><term>blinded</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cegado</term></tig></langSet>
+        <note from="translator">Femenino/plural: cegada(s), cegados.</note>
+      </termEntry>
       <termEntry id="term_blindness">
         <langSet xml:lang="en"><tig><term>blindness</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>ceguera</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_blind_inf">
+        <langSet xml:lang="en"><tig><term>blind</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cegar</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_blind_past">
+        <langSet xml:lang="en"><tig><term>blinded</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cegado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_blind_3p">
+        <langSet xml:lang="en"><tig><term>blinds</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ciega</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_blind_gerund">
+        <langSet xml:lang="en"><tig><term>blinding</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>cegando</term></tig></langSet>
       </termEntry>
       <termEntry id="term_block">
         <langSet xml:lang="en"><tig><term>block</term></tig></langSet>
@@ -872,6 +905,12 @@
       <termEntry id="term_blow">
         <langSet xml:lang="en"><tig><term>blow</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>golpe</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_blunt_adj">
+        <descrip>De una persona/discurso: franco.</descrip>
+        <langSet xml:lang="en"><tig><term>blunt</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>romo</term></tig></langSet>
+        <note from="translator">Alternativas (objeto): sin filo. Alternativas (persona): directo, sin rodeos. Femenino/plural: roma(s), romos.</note>
       </termEntry>
       <termEntry id="term_bold">
         <langSet xml:lang="en"><tig><term>bold</term></tig></langSet>
@@ -962,6 +1001,15 @@
         <langSet xml:lang="en"><tig><term>browser</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>explorador</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_bruiser_noun[0]">
+        <langSet xml:lang="en"><tig><term>bruiser</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>matón</term></tig></langSet>
+        <note from="translator">Alternativas: bruto, peleón, fortachón.</note>
+      </termEntry>
+      <termEntry id="term_bruiser_noun[1]">
+        <langSet xml:lang="en"><tig><term>bruisers</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>matones</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_build_n">
         <langSet xml:lang="en"><tig><term>build</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>corpulencia</term></tig></langSet>
@@ -978,6 +1026,34 @@
       <termEntry id="term_bulleted_list">
         <langSet xml:lang="en"><tig><term>bulleted list</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>con viñetas</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_bump_noun[0]">
+        <descrip>En una superficie: bulto.</descrip>
+        <langSet xml:lang="en"><tig><term>bump</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>golpe</term></tig></langSet>
+        <note from="translator">Alternativas: choque, protuberancia.</note>
+      </termEntry>
+      <termEntry id="term_bump_noun[1]">
+        <langSet xml:lang="en"><tig><term>bumps</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>golpes</term></tig></langSet>
+        <note from="translator">Alternativas: bultos, choques.</note>
+      </termEntry>
+      <termEntry id="verb_bump_inf">
+        <langSet xml:lang="en"><tig><term>bump</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>golpear</term></tig></langSet>
+        <note from="translator">Alternativa: chocar con.</note>
+      </termEntry>
+      <termEntry id="verb_bump_past">
+        <langSet xml:lang="en"><tig><term>bumped</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>golpeado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_bump_3p">
+        <langSet xml:lang="en"><tig><term>bumps</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>golpea</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_bump_gerund">
+        <langSet xml:lang="en"><tig><term>bumping</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>golpeando</term></tig></langSet>
       </termEntry>
       <termEntry id="term_buried">
         <langSet xml:lang="en"><tig><term>buried</term></tig></langSet>
@@ -999,7 +1075,8 @@
       </termEntry>
       <termEntry id="verb_burn_gerund">
         <langSet xml:lang="en"><tig><term>burning</term></tig></langSet>
-        <langSet xml:lang="es"><tig><term>quemando</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>ardiendo</term></tig></langSet>
+        <note from="translator">También: quemando.</note>
       </termEntry>
       <termEntry id="term_burst">
         <langSet xml:lang="en"><tig><term>burst</term></tig></langSet>
@@ -1075,6 +1152,14 @@
       <termEntry id="term_camera">
         <langSet xml:lang="en"><tig><term>camera</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>cámara</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_campaign_noun[0]">
+        <langSet xml:lang="en"><tig><term>campaign</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>campaña</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_campaign_noun[1]">
+        <langSet xml:lang="en"><tig><term>campaigns</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>campañas</term></tig></langSet>
       </termEntry>
       <termEntry id="term_field_noun">
         <langSet xml:lang="en"><tig><term>campo</term></tig></langSet>
@@ -1992,11 +2077,13 @@
         <langSet xml:lang="es"><tig><term>estampas</term></tig></langSet>
       </termEntry>
       <termEntry id="term.deck[0]">
+        <descrip>En "Events": evento de selección.</descrip>
         <langSet xml:lang="en"><tig><term>deck</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>mazo</term></tig></langSet>
         <note from="translator">Alternativa: baraja</note>
       </termEntry>
       <termEntry id="term.deck[1]">
+        <descrip>En "Events": eventos de selección.</descrip>
         <langSet xml:lang="en"><tig><term>decks</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>mazos</term></tig></langSet>
       </termEntry>
@@ -2418,9 +2505,31 @@
         <langSet xml:lang="en"><tig><term>drawing</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>dibujando</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_dread_noun[0]">
+        <langSet xml:lang="en"><tig><term>dread</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>pavor</term></tig></langSet>
+        <note from="translator">Alternativas: terror, temor profundo.</note>
+      </termEntry>
       <termEntry id="term_dreadful">
         <langSet xml:lang="en"><tig><term>dreadful</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>temible</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_dread_inf">
+        <langSet xml:lang="en"><tig><term>dread</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>temer</term></tig></langSet>
+        <note from="translator">Alternativa: tener pavor.</note>
+      </termEntry>
+      <termEntry id="verb_dread_past">
+        <langSet xml:lang="en"><tig><term>dreaded</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>temido</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_dread_3p">
+        <langSet xml:lang="en"><tig><term>dreads</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>teme</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_dread_gerund">
+        <langSet xml:lang="en"><tig><term>dreading</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>temiendo</term></tig></langSet>
       </termEntry>
       <termEntry id="verb_drop_inf">
         <langSet xml:lang="en"><tig><term>drop</term></tig></langSet>
@@ -4024,6 +4133,22 @@
         <langSet xml:lang="es"><tig><term>última</term></tig></langSet>
         <note from="translator">Masculino/plural: último(s), últimas.</note>
       </termEntry>
+      <termEntry id="verb_last_inf">
+        <langSet xml:lang="en"><tig><term>last</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>durar</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_last_past">
+        <langSet xml:lang="en"><tig><term>lasted</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>durado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_last_3p">
+        <langSet xml:lang="en"><tig><term>lasts</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>dura</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_last_gerund">
+        <langSet xml:lang="en"><tig><term>lasting</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>durando</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_late">
         <langSet xml:lang="en"><tig><term>late</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>tarde</term></tig></langSet>
@@ -4913,6 +5038,11 @@
         <langSet xml:lang="en"><tig><term>only</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>solo</term></tig></langSet>
         <note from="translator">Alternativas: único, solamente</note>
+      </termEntry>
+      <termEntry id="term_ongoing_adj">
+        <langSet xml:lang="en"><tig><term>ongoing</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>en curso</term></tig></langSet>
+        <note from="translator">Alternativas: continuo, en desarrollo.</note>
       </termEntry>
       <termEntry id="verb_open_inf">
         <langSet xml:lang="en"><tig><term>open</term></tig></langSet>
@@ -6220,6 +6350,15 @@
         <langSet xml:lang="en"><tig><term>ritual</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>ritual</term></tig></langSet>
       </termEntry>
+      <termEntry id="term_road_noun[0]">
+        <langSet xml:lang="en"><tig><term>road</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>carretera</term></tig></langSet>
+        <note from="translator">Alternativas: camino, vía.</note>
+      </termEntry>
+      <termEntry id="term_road_noun[1]">
+        <langSet xml:lang="en"><tig><term>roads</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>carreteras</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_robed">
         <langSet xml:lang="en"><tig><term>robed</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>encapuchado</term></tig></langSet>
@@ -6753,13 +6892,17 @@
         <langSet xml:lang="en"><tig><term>size</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>tamaño</term></tig></langSet>
       </termEntry>
-      <termEntry id="term.skill[0]">
+      <termEntry id="term_skill[0]">
+        <descrip>En RR.HH.: Competencia. En Psicología: Destreza. En RPG: Pericia.</descrip>
         <langSet xml:lang="en"><tig><term>skill</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>habilidad</term></tig></langSet>
+        <note from="translator">Alternativas: destreza, pericia, competencia.</note>
       </termEntry>
-      <termEntry id="term.skill[1]">
+      <termEntry id="term_skill[1]">
+        <descrip>En RR.HH.: Competencias. En Psicología: Destrezas. En RPG: Pericias.</descrip>
         <langSet xml:lang="en"><tig><term>skills</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>habilidades</term></tig></langSet>
+        <note from="translator">Alternativas: destrezas, pericias, competencias.</note>
       </termEntry>
       <termEntry id="verb_skip_inf">
         <langSet xml:lang="en"><tig><term>skip</term></tig></langSet>
@@ -7211,6 +7354,23 @@
         <langSet xml:lang="en"><tig><term>suddenly</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>de repente</term></tig></langSet>
       </termEntry>
+      <termEntry id="verb_suffer_inf">
+        <langSet xml:lang="en"><tig><term>suffer</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sufrir</term></tig></langSet>
+        <note from="translator">Alternativa: padecer.</note>
+      </termEntry>
+      <termEntry id="verb_suffer_past">
+        <langSet xml:lang="en"><tig><term>suffered</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sufrido</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_suffer_3p">
+        <langSet xml:lang="en"><tig><term>suffers</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sufre</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_suffer_gerund">
+        <langSet xml:lang="en"><tig><term>suffering</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>sufriendo</term></tig></langSet>
+      </termEntry>
       <termEntry id="term_suit_noun[0]">
         <langSet xml:lang="en"><tig><term>suit</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>palo</term></tig></langSet>
@@ -7529,6 +7689,32 @@
       <termEntry id="term_tie">
         <langSet xml:lang="en"><tig><term>tie</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>empate</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_tinker_noun[0]">
+        <langSet xml:lang="en"><tig><term>tinker</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>manitas</term></tig></langSet>
+        <note from="translator">Persona que arregla o experimenta con cosas. Alternativas: experimentador, cacharrero.</note>
+      </termEntry>
+      <termEntry id="term_tinker_noun[1]">
+        <langSet xml:lang="en"><tig><term>tinkers</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>manitas</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_tinker_inf">
+        <langSet xml:lang="en"><tig><term>tinker</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>juguetear</term></tig></langSet>
+        <note from="translator">Alternativas: manipular, experimentar con, hacer arreglos.</note>
+      </termEntry>
+      <termEntry id="verb_tinker_past">
+        <langSet xml:lang="en"><tig><term>tinkered</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>jugueteado</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_tinker_3p">
+        <langSet xml:lang="en"><tig><term>tinkers</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>juguetea</term></tig></langSet>
+      </termEntry>
+      <termEntry id="verb_tinker_gerund">
+        <langSet xml:lang="en"><tig><term>tinkering</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>jugueteando</term></tig></langSet>
       </termEntry>
       <termEntry id="term.tile[0]">
         <langSet xml:lang="en"><tig><term>tile</term></tig></langSet>
@@ -8184,6 +8370,11 @@
       <termEntry id="term_width">
         <langSet xml:lang="en"><tig><term>width</term></tig></langSet>
         <langSet xml:lang="es"><tig><term>anchura</term></tig></langSet>
+      </termEntry>
+      <termEntry id="term_wilderness_noun[0]">
+        <langSet xml:lang="en"><tig><term>wilderness</term></tig></langSet>
+        <langSet xml:lang="es"><tig><term>naturaleza salvaje</term></tig></langSet>
+        <note from="translator">Alternativas: páramo, tierra salvaje, intemperie.</note>
       </termEntry>
       <termEntry id="term_wish_noun">
         <langSet xml:lang="en"><tig><term>wish</term></tig></langSet>
